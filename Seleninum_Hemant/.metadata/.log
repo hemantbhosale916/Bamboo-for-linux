@@ -1,0 +1,3802 @@
+!SESSION 2016-06-10 14:24:24.348 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.7.0_80
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.java.product
+
+This is a continuation of log file C:\Users\trng7\Desktop\Seleninum_Hemant\.metadata\.bak_1.log
+Created Time: 2016-06-10 14:50:28.968
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:28.968
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:com.google.common.primitives [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  Booleans$BooleanArrayAsList.class (not open)
+  Booleans$LexicographicalComparator.class (not open)
+  Booleans.class (not open)
+  Bytes$ByteArrayAsList.class (not open)
+  Bytes.class (not open)
+  Chars$CharArrayAsList.class (not open)
+  Chars$LexicographicalComparator.class (not open)
+  Chars.class (not open)
+  Doubles$DoubleArrayAsList.class (not open)
+  Doubles$DoubleConverter.class (not open)
+  Doubles$LexicographicalComparator.class (not open)
+  Doubles.class (not open)
+  Floats$FloatArrayAsList.class (not open)
+  Floats$FloatConverter.class (not open)
+  Floats$LexicographicalComparator.class (not open)
+  Floats.class (not open)
+  Ints$IntArrayAsList.class (not open)
+  Ints$IntConverter.class (not open)
+  Ints$LexicographicalComparator.class (not open)
+  Ints.class (not open)
+  Longs$LexicographicalComparator.class (not open)
+  Longs$LongArrayAsList.class (not open)
+  Longs$LongConverter.class (not open)
+  Longs.class (not open)
+  ParseRequest.class (not open)
+  Primitives.class (not open)
+  Shorts$LexicographicalComparator.class (not open)
+  Shorts$ShortArrayAsList.class (not open)
+  Shorts$ShortConverter.class (not open)
+  Shorts.class (not open)
+  SignedBytes$LexicographicalComparator.class (not open)
+  SignedBytes.class (not open)
+  UnsignedBytes$LexicographicalComparatorHolder$PureJavaComparator.class (not open)
+  UnsignedBytes$LexicographicalComparatorHolder$UnsafeComparator$1.class (not open)
+  UnsignedBytes$LexicographicalComparatorHolder$UnsafeComparator.class (not open)
+  UnsignedBytes$LexicographicalComparatorHolder.class (not open)
+  UnsignedBytes.class (not open)
+  UnsignedInteger.class (not open)
+  UnsignedInts$LexicographicalComparator.class (not open)
+  UnsignedInts.class (not open)
+  UnsignedLong.class (not open)
+  UnsignedLongs$LexicographicalComparator.class (not open)
+  UnsignedLongs.class (not open)
+  package-info.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:28.968
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.commons.exec.util [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  DebugUtils.class (not open)
+  MapUtils.class (not open)
+  StringUtils.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:28.968
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.bouncycastle.asn1 [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  ASN1ApplicationSpecificParser.class (not open)
+  ASN1Boolean.class (not open)
+  ASN1Choice.class (not open)
+  ASN1Encodable.class (not open)
+  ASN1EncodableVector.class (not open)
+  ASN1Encoding.class (not open)
+  ASN1Enumerated.class (not open)
+  ASN1Exception.class (not open)
+  ASN1GeneralizedTime.class (not open)
+  ASN1Generator.class (not open)
+  ASN1InputStream.class (not open)
+  ASN1Integer.class (not open)
+  ASN1Null.class (not open)
+  ASN1Object.class (not open)
+  ASN1ObjectIdentifier.class (not open)
+  ASN1OctetString.class (not open)
+  ASN1OctetStringParser.class (not open)
+  ASN1OutputStream$ImplicitOutputStream.class (not open)
+  ASN1OutputStream.class (not open)
+  ASN1ParsingException.class (not open)
+  ASN1Primitive.class (not open)
+  ASN1Sequence$1.class (not open)
+  ASN1Sequence.class (not open)
+  ASN1SequenceParser.class (not open)
+  ASN1Set$1.class (not open)
+  ASN1Set.class (not open)
+  ASN1SetParser.class (not open)
+  ASN1StreamParser.class (not open)
+  ASN1String.class (not open)
+  ASN1TaggedObject.class (not open)
+  ASN1TaggedObjectParser.class (not open)
+  ASN1UTCTime.class (not open)
+  BERApplicationSpecific.class (not open)
+  BERApplicationSpecificParser.class (not open)
+  BERConstructedOctetString.class (not open)
+  BERFactory.class (not open)
+  BERGenerator.class (not open)
+  BEROctetString$1.class (not open)
+  BEROctetString.class (not open)
+  BEROctetStringGenerator$BufferedBEROctetStream.class (not open)
+  BEROctetStringGenerator.class (not open)
+  BEROctetStringParser.class (not open)
+  BEROutputStream.class (not open)
+  BERSequence.class (not open)
+  BERSequenceGenerator.class (not open)
+  BERSequenceParser.class (not open)
+  BERSet.class (not open)
+  BERSetParser.class (not open)
+  BERTaggedObject.class (not open)
+  BERTaggedObjectParser.class (not open)
+  BERTags.class (not open)
+  ConstructedOctetStream.class (not open)
+  DERApplicationSpecific.class (not open)
+  DERBMPString.class (not open)
+  DERBitString.class (not open)
+  DERBoolean.class (not open)
+  DEREncodableVector.class (not open)
+  DEREnumerated.class (not open)
+  DERExternal.class (not open)
+  DERExternalParser.class (not open)
+  DERFactory.class (not open)
+  DERGeneralString.class (not open)
+  DERGeneralizedTime.class (not open)
+  DERGenerator.class (not open)
+  DERIA5String.class (not open)
+  DERInteger.class (not open)
+  DERNull.class (not open)
+  DERNumericString.class (not open)
+  DERObjectIdentifier.class (not open)
+  DEROctetString.class (not open)
+  DEROctetStringParser.class (not open)
+  DEROutputStream.class (not open)
+  DERPrintableString.class (not open)
+  DERSequence.class (not open)
+  DERSequenceGenerator.class (not open)
+  DERSequenceParser.class (not open)
+  DERSet.class (not open)
+  DERSetParser.class (not open)
+  DERT61String.class (not open)
+  DERTaggedObject.class (not open)
+  DERTags.class (not open)
+  DERUTCTime.class (not open)
+  DERUTF8String.class (not open)
+  DERUniversalString.class (not open)
+  DERVisibleString.class (not open)
+  DLOutputStream.class (not open)
+  DLSequence.class (not open)
+  DLSet.class (not open)
+  DLTaggedObject.class (not open)
+  DefiniteLengthInputStream.class (not open)
+  InMemoryRepresentable.class (not open)
+  IndefiniteLengthInputStream.class (not open)
+  LazyConstructionEnumeration.class (not open)
+  LazyEncodedSequence.class (not open)
+  LimitedInputStream.class (not open)
+  OIDTokenizer.class (not open)
+  StreamUtil.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:28.968
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:com.gargoylesoftware.htmlunit.javascript.host.svg [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  SVGAElement.class (not open)
+  SVGAltGlyphElement.class (not open)
+  SVGAngle.class (not open)
+  SVGAnimateElement.class (not open)
+  SVGAnimateMotionElement.class (not open)
+  SVGAnimateTransformElement.class (not open)
+  SVGAnimatedAngle.class (not open)
+  SVGAnimatedBoolean.class (not open)
+  SVGAnimatedEnumeration.class (not open)
+  SVGAnimatedInteger.class (not open)
+  SVGAnimatedLength.class (not open)
+  SVGAnimatedLengthList.class (not open)
+  SVGAnimatedNumber.class (not open)
+  SVGAnimatedNumberList.class (not open)
+  SVGAnimatedPreserveAspectRatio.class (not open)
+  SVGAnimatedRect.class (not open)
+  SVGAnimatedString.class (not open)
+  SVGAnimatedTransformList.class (not open)
+  SVGAnimationElement.class (not open)
+  SVGCircleElement.class (not open)
+  SVGClipPathElement.class (not open)
+  SVGComponentTransferFunctionElement.class (not open)
+  SVGCursorElement.class (not open)
+  SVGDefsElement.class (not open)
+  SVGDescElement.class (not open)
+  SVGDiscardElement.class (not open)
+  SVGDocument.class (not open)
+  SVGElement.class (not open)
+  SVGEllipseElement.class (not open)
+  SVGFEBlendElement.class (not open)
+  SVGFEColorMatrixElement.class (not open)
+  SVGFEComponentTransferElement.class (not open)
+  SVGFECompositeElement.class (not open)
+  SVGFEConvolveMatrixElement.class (not open)
+  SVGFEDiffuseLightingElement.class (not open)
+  SVGFEDisplacementMapElement.class (not open)
+  SVGFEDistantLightElement.class (not open)
+  SVGFEDropShadowElement.class (not open)
+  SVGFEFloodElement.class (not open)
+  SVGFEFuncAElement.class (not open)
+  SVGFEFuncBElement.class (not open)
+  SVGFEFuncGElement.class (not open)
+  SVGFEFuncRElement.class (not open)
+  SVGFEGaussianBlurElement.class (not open)
+  SVGFEImageElement.class (not open)
+  SVGFEMergeElement.class (not open)
+  SVGFEMergeNodeElement.class (not open)
+  SVGFEMorphologyElement.class (not open)
+  SVGFEOffsetElement.class (not open)
+  SVGFEPointLightElement.class (not open)
+  SVGFESpecularLightingElement.class (not open)
+  SVGFESpotLightElement.class (not open)
+  SVGFETileElement.class (not open)
+  SVGFETurbulenceElement.class (not open)
+  SVGFilterElement.class (not open)
+  SVGForeignObjectElement.class (not open)
+  SVGGElement.class (not open)
+  SVGGeometryElement.class (not open)
+  SVGGradientElement.class (not open)
+  SVGGraphicsElement.class (not open)
+  SVGImageElement.class (not open)
+  SVGLength.class (not open)
+  SVGLengthList.class (not open)
+  SVGLineElement.class (not open)
+  SVGLinearGradientElement.class (not open)
+  SVGMPathElement.class (not open)
+  SVGMarkerElement.class (not open)
+  SVGMaskElement.class (not open)
+  SVGMatrix.class (not open)
+  SVGMetadataElement.class (not open)
+  SVGNumber.class (not open)
+  SVGNumberList.class (not open)
+  SVGPathElement.class (not open)
+  SVGPathSeg.class (not open)
+  SVGPathSegArcAbs.class (not open)
+  SVGPathSegArcRel.class (not open)
+  SVGPathSegClosePath.class (not open)
+  SVGPathSegCurvetoCubicAbs.class (not open)
+  SVGPathSegCurvetoCubicRel.class (not open)
+  SVGPathSegCurvetoCubicSmoothAbs.class (not open)
+  SVGPathSegCurvetoCubicSmoothRel.class (not open)
+  SVGPathSegCurvetoQuadraticAbs.class (not open)
+  SVGPathSegCurvetoQuadraticRel.class (not open)
+  SVGPathSegCurvetoQuadraticSmoothAbs.class (not open)
+  SVGPathSegCurvetoQuadraticSmoothRel.class (not open)
+  SVGPathSegLinetoAbs.class (not open)
+  SVGPathSegLinetoHorizontalAbs.class (not open)
+  SVGPathSegLinetoHorizontalRel.class (not open)
+  SVGPathSegLinetoRel.class (not open)
+  SVGPathSegLinetoVerticalAbs.class (not open)
+  SVGPathSegLinetoVerticalRel.class (not open)
+  SVGPathSegList.class (not open)
+  SVGPathSegMovetoAbs.class (not open)
+  SVGPathSegMovetoRel.class (not open)
+  SVGPatternElement.class (not open)
+  SVGPoint.class (not open)
+  SVGPointList.class (not open)
+  SVGPolygonElement.class (not open)
+  SVGPolylineElement.class (not open)
+  SVGPreserveAspectRatio.class (not open)
+  SVGRadialGradientElement.class (not open)
+  SVGRect.class (not open)
+  SVGRectElement.class (not open)
+  SVGRenderingIntent.class (not open)
+  SVGSVGElement.class (not open)
+  SVGScriptElement.class (not open)
+  SVGSetElement.class (not open)
+  SVGStopElement.class (not open)
+  SVGStringList.class (not open)
+  SVGStyleElement.class (not open)
+  SVGSwitchElement.class (not open)
+  SVGSymbolElement.class (not open)
+  SVGTSpanElement.class (not open)
+  SVGTextContentElement.class (not open)
+  SVGTextElement.class (not open)
+  SVGTextPathElement.class (not open)
+  SVGTextPositioningElement.class (not open)
+  SVGTitleElement.class (not open)
+  SVGTransform.class (not open)
+  SVGTransformList.class (not open)
+  SVGUnitTypes.class (not open)
+  SVGUseElement.class (not open)
+  SVGViewElement.class (not open)
+  SVGViewSpec.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:28.968
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.openqa.jetty.http.handler.jmx [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  ResourceHandlerMBean.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:28.968
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.bouncycastle.asn1.crmf [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  AttributeTypeAndValue.class (not open)
+  CRMFObjectIdentifiers.class (not open)
+  CertId.class (not open)
+  CertReqMessages.class (not open)
+  CertReqMsg.class (not open)
+  CertRequest.class (not open)
+  CertTemplate.class (not open)
+  CertTemplateBuilder.class (not open)
+  Controls.class (not open)
+  EncKeyWithID.class (not open)
+  EncryptedKey.class (not open)
+  EncryptedValue.class (not open)
+  OptionalValidity.class (not open)
+  PKIArchiveOptions.class (not open)
+  PKIPublicationInfo.class (not open)
+  PKMACValue.class (not open)
+  POPOPrivKey.class (not open)
+  POPOSigningKey.class (not open)
+  POPOSigningKeyInput.class (not open)
+  ProofOfPossession.class (not open)
+  SinglePubInfo.class (not open)
+  SubsequentMessage.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:28.968
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:com.gargoylesoftware.htmlunit.javascript.host.dom [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  AbstractList$1.class (not open)
+  AbstractList$DomHtmlAttributeChangeListenerImpl.class (not open)
+  AbstractList$EffectOnCache.class (not open)
+  AbstractList.class (not open)
+  Attr.class (not open)
+  CDATASection.class (not open)
+  CharacterData.class (not open)
+  Comment.class (not open)
+  DOMCursor.class (not open)
+  DOMError.class (not open)
+  DOMException.class (not open)
+  DOMImplementation.class (not open)
+  DOMMatrix.class (not open)
+  DOMMatrixReadOnly.class (not open)
+  DOMParser.class (not open)
+  DOMPoint.class (not open)
+  DOMPointReadOnly.class (not open)
+  DOMRectReadOnly.class (not open)
+  DOMRequest.class (not open)
+  DOMSettableTokenList.class (not open)
+  DOMStringList.class (not open)
+  DOMStringMap.class (not open)
+  DOMTokenList.class (not open)
+  Document$1.class (not open)
+  Document$2.class (not open)
+  Document$3.class (not open)
+  Document.class (not open)
+  DocumentFragment.class (not open)
+  DocumentType.class (not open)
+  EventNode.class (not open)
+  MediaList.class (not open)
+  MutationObserver.class (not open)
+  MutationRecord.class (not open)
+  Node$1.class (not open)
+  Node.class (not open)
+  NodeFilter.class (not open)
+  NodeIterator.class (not open)
+  NodeList.class (not open)
+  ProcessingInstruction.class (not open)
+  RadioNodeList.class (not open)
+  Range.class (not open)
+  Selection.class (not open)
+  ShadowRoot.class (not open)
+  StaticNodeList.class (not open)
+  Text.class (not open)
+  TextRange.class (not open)
+  TreeWalker.class (not open)
+  XPathEvaluator.class (not open)
+  XPathNSResolver.class (not open)
+  XPathResult.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:28.968
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.hamcrest.number [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  BigDecimalCloseTo.class (not open)
+  IsCloseTo.class (not open)
+  OrderingComparison.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:28.968
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.eclipse.jetty.util.log.jmx [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  LogMBean.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:28.968
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.jboss.netty.channel [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  AbstractChannel$ChannelCloseFuture.class (not open)
+  AbstractChannel.class (not open)
+  AbstractChannelSink.class (not open)
+  AbstractServerChannel.class (not open)
+  AdaptiveReceiveBufferSizePredictor.class (not open)
+  AdaptiveReceiveBufferSizePredictorFactory.class (not open)
+  Channel.class (not open)
+  ChannelConfig.class (not open)
+  ChannelDownstreamHandler.class (not open)
+  ChannelEvent.class (not open)
+  ChannelException.class (not open)
+  ChannelFactory.class (not open)
+  ChannelFuture.class (not open)
+  ChannelFutureListener$1.class (not open)
+  ChannelFutureListener$2.class (not open)
+  ChannelFutureListener.class (not open)
+  ChannelFutureProgressListener.class (not open)
+  ChannelHandler$Sharable.class (not open)
+  ChannelHandler.class (not open)
+  ChannelHandlerContext.class (not open)
+  ChannelHandlerLifeCycleException.class (not open)
+  ChannelLocal$1.class (not open)
+  ChannelLocal.class (not open)
+  ChannelPipeline.class (not open)
+  ChannelPipelineCoverage.class (not open)
+  ChannelPipelineException.class (not open)
+  ChannelPipelineFactory.class (not open)
+  ChannelSink.class (not open)
+  ChannelState.class (not open)
+  ChannelStateEvent.class (not open)
+  ChannelUpstreamHandler.class (not open)
+  Channels$1.class (not open)
+  Channels$2.class (not open)
+  Channels$3.class (not open)
+  Channels$4.class (not open)
+  Channels$5.class (not open)
+  Channels$6.class (not open)
+  Channels$7.class (not open)
+  Channels$8.class (not open)
+  Channels.class (not open)
+  ChildChannelStateEvent.class (not open)
+  CompleteChannelFuture.class (not open)
+  DefaultChannelConfig.class (not open)
+  DefaultChannelFuture.class (not open)
+  DefaultChannelPipeline$DefaultChannelHandlerContext.class (not open)
+  DefaultChannelPipeline$DiscardingChannelSink.class (not open)
+  DefaultChannelPipeline.class (not open)
+  DefaultChildChannelStateEvent.class (not open)
+  DefaultExceptionEvent.class (not open)
+  DefaultFileRegion.class (not open)
+  DefaultServerChannelConfig.class (not open)
+  DefaultWriteCompletionEvent.class (not open)
+  DownstreamChannelStateEvent$1.class (not open)
+  DownstreamChannelStateEvent.class (not open)
+  DownstreamMessageEvent.class (not open)
+  ExceptionEvent.class (not open)
+  FailedChannelFuture.class (not open)
+  FileRegion.class (not open)
+  FixedReceiveBufferSizePredictor.class (not open)
+  FixedReceiveBufferSizePredictorFactory.class (not open)
+  LifeCycleAwareChannelHandler.class (not open)
+  MessageEvent.class (not open)
+  ReceiveBufferSizePredictor.class (not open)
+  ReceiveBufferSizePredictorFactory.class (not open)
+  ServerChannel.class (not open)
+  ServerChannelFactory.class (not open)
+  SimpleChannelDownstreamHandler$1.class (not open)
+  SimpleChannelDownstreamHandler.class (not open)
+  SimpleChannelHandler$1.class (not open)
+  SimpleChannelHandler.class (not open)
+  SimpleChannelUpstreamHandler$1.class (not open)
+  SimpleChannelUpstreamHandler.class (not open)
+  StaticChannelPipeline$StaticChannelHandlerContext.class (not open)
+  StaticChannelPipeline.class (not open)
+  SucceededChannelFuture.class (not open)
+  UpstreamChannelStateEvent$1.class (not open)
+  UpstreamChannelStateEvent.class (not open)
+  UpstreamMessageEvent.class (not open)
+  WriteCompletionEvent.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:28.968
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.bouncycastle.pqc.jcajce.provider.rainbow [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  BCRainbowPrivateKey.class (not open)
+  BCRainbowPublicKey.class (not open)
+  RainbowKeyFactorySpi.class (not open)
+  RainbowKeyPairGeneratorSpi.class (not open)
+  RainbowKeysToParams.class (not open)
+  SignatureSpi$withSha224.class (not open)
+  SignatureSpi$withSha256.class (not open)
+  SignatureSpi$withSha384.class (not open)
+  SignatureSpi$withSha512.class (not open)
+  SignatureSpi.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:28.968
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.eclipse.jetty.websocket.api.annotations [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  OnWebSocketClose.class (not open)
+  OnWebSocketConnect.class (not open)
+  OnWebSocketError.class (not open)
+  OnWebSocketFrame.class (not open)
+  OnWebSocketMessage.class (not open)
+  WebSocket.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:28.983
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.openqa.selenium.remote.internal [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  ApacheHttpClient$Factory.class (not open)
+  ApacheHttpClient.class (not open)
+  CircularOutputStream.class (not open)
+  HttpClientFactory$MyRedirectHandler.class (not open)
+  HttpClientFactory.class (not open)
+  JsonToWebElementConverter.class (not open)
+  WebElementToJsonConverter.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:28.983
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.bouncycastle.crypto.agreement.srp [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  SRP6Client.class (not open)
+  SRP6Server.class (not open)
+  SRP6Util.class (not open)
+  SRP6VerifierGenerator.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:28.983
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.jboss.netty.handler.codec.http.multipart [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  AbstractDiskHttpData.class (not open)
+  AbstractHttpData.class (not open)
+  AbstractMemoryHttpData.class (not open)
+  Attribute.class (not open)
+  DefaultHttpDataFactory.class (not open)
+  DiskAttribute.class (not open)
+  DiskFileUpload.class (not open)
+  FileUpload.class (not open)
+  HttpData.class (not open)
+  HttpDataFactory.class (not open)
+  HttpPostBodyUtil$SeekAheadNoBackArrayException.class (not open)
+  HttpPostBodyUtil$SeekAheadOptimize.class (not open)
+  HttpPostBodyUtil$TransferEncodingMechanism.class (not open)
+  HttpPostBodyUtil.class (not open)
+  HttpPostRequestDecoder$1.class (not open)
+  HttpPostRequestDecoder$EndOfDataDecoderException.class (not open)
+  HttpPostRequestDecoder$ErrorDataDecoderException.class (not open)
+  HttpPostRequestDecoder$IncompatibleDataDecoderException.class (not open)
+  HttpPostRequestDecoder$MultiPartStatus.class (not open)
+  HttpPostRequestDecoder$NotEnoughDataDecoderException.class (not open)
+  HttpPostRequestDecoder.class (not open)
+  HttpPostRequestEncoder$ErrorDataEncoderException.class (not open)
+  HttpPostRequestEncoder.class (not open)
+  InterfaceHttpData$HttpDataType.class (not open)
+  InterfaceHttpData.class (not open)
+  InternalAttribute.class (not open)
+  MemoryAttribute.class (not open)
+  MemoryFileUpload.class (not open)
+  MixedAttribute.class (not open)
+  MixedFileUpload.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:28.983
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.http.impl.conn [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  AbstractClientConnAdapter.class (not open)
+  AbstractPoolEntry.class (not open)
+  AbstractPooledConnAdapter.class (not open)
+  BasicClientConnectionManager$1.class (not open)
+  BasicClientConnectionManager.class (not open)
+  BasicHttpClientConnectionManager$1.class (not open)
+  BasicHttpClientConnectionManager.class (not open)
+  CPool.class (not open)
+  CPoolEntry.class (not open)
+  CPoolProxy.class (not open)
+  ConnectionShutdownException.class (not open)
+  DefaultClientConnection.class (not open)
+  DefaultClientConnectionOperator.class (not open)
+  DefaultHttpClientConnectionOperator.class (not open)
+  DefaultHttpResponseParser.class (not open)
+  DefaultHttpResponseParserFactory.class (not open)
+  DefaultHttpRoutePlanner.class (not open)
+  DefaultManagedHttpClientConnection.class (not open)
+  DefaultProxyRoutePlanner.class (not open)
+  DefaultResponseParser.class (not open)
+  DefaultRoutePlanner.class (not open)
+  DefaultSchemePortResolver.class (not open)
+  HttpConnPool$InternalConnFactory.class (not open)
+  HttpConnPool.class (not open)
+  HttpPoolEntry.class (not open)
+  IdleConnectionHandler$TimeValues.class (not open)
+  IdleConnectionHandler.class (not open)
+  InMemoryDnsResolver.class (not open)
+  LoggingInputStream.class (not open)
+  LoggingManagedHttpClientConnection.class (not open)
+  LoggingOutputStream.class (not open)
+  LoggingSessionInputBuffer.class (not open)
+  LoggingSessionOutputBuffer.class (not open)
+  ManagedClientConnectionImpl.class (not open)
+  ManagedHttpClientConnectionFactory.class (not open)
+  PoolingClientConnectionManager$1.class (not open)
+  PoolingClientConnectionManager.class (not open)
+  PoolingHttpClientConnectionManager$1.class (not open)
+  PoolingHttpClientConnectionManager$ConfigData.class (not open)
+  PoolingHttpClientConnectionManager$InternalConnectionFactory.class (not open)
+  PoolingHttpClientConnectionManager.class (not open)
+  ProxySelectorRoutePlanner$1.class (not open)
+  ProxySelectorRoutePlanner.class (not open)
+  SchemeRegistryFactory.class (not open)
+  SingleClientConnManager$1.class (not open)
+  SingleClientConnManager$ConnAdapter.class (not open)
+  SingleClientConnManager$PoolEntry.class (not open)
+  SingleClientConnManager.class (not open)
+  SystemDefaultDnsResolver.class (not open)
+  SystemDefaultRoutePlanner$1.class (not open)
+  SystemDefaultRoutePlanner.class (not open)
+  Wire.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:28.983
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.eclipse.jetty.util.component [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  AbstractLifeCycle$AbstractLifeCycleListener.class (not open)
+  AbstractLifeCycle.class (not open)
+  Container$InheritedListener.class (not open)
+  Container$Listener.class (not open)
+  Container.class (not open)
+  ContainerLifeCycle$1.class (not open)
+  ContainerLifeCycle$Bean.class (not open)
+  ContainerLifeCycle$Managed.class (not open)
+  ContainerLifeCycle.class (not open)
+  Destroyable.class (not open)
+  Dumpable.class (not open)
+  FileDestroyable.class (not open)
+  FileNoticeLifeCycleListener.class (not open)
+  Graceful.class (not open)
+  LifeCycle$Listener.class (not open)
+  LifeCycle.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:28.983
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.eclipse.jetty.util.resource [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  BadResource.class (not open)
+  EmptyResource.class (not open)
+  FileResource$1.class (not open)
+  FileResource.class (not open)
+  JarFileResource.class (not open)
+  JarResource$1.class (not open)
+  JarResource.class (not open)
+  PathResource.class (not open)
+  Resource.class (not open)
+  ResourceCollection.class (not open)
+  ResourceFactory.class (not open)
+  URLResource.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:28.983
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.bouncycastle.jcajce.provider.config [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  ConfigurableProvider.class (not open)
+  ProviderConfiguration.class (not open)
+  ProviderConfigurationPermission.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:28.983
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.xml.serialize [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  BaseMarkupSerializer.class (not open)
+  DOMSerializer.class (not open)
+  DOMSerializerImpl$DocumentMethods.class (not open)
+  DOMSerializerImpl.class (not open)
+  ElementState.class (not open)
+  EncodingInfo$CharToByteConverterMethods.class (not open)
+  EncodingInfo$CharsetMethods.class (not open)
+  EncodingInfo.class (not open)
+  Encodings.class (not open)
+  HTMLSerializer.class
+    class HTMLSerializer
+  HTMLdtd.class
+    class HTMLdtd
+  IndentPrinter.class (not open)
+  LineSeparator.class (not open)
+  Method.class (not open)
+  ObjectFactory$ConfigurationError.class (not open)
+  ObjectFactory.class (not open)
+  OutputFormat$DTD.class (not open)
+  OutputFormat$Defaults.class (not open)
+  OutputFormat.class (not open)
+  Printer.class (not open)
+  SecuritySupport$1.class (not open)
+  SecuritySupport$2.class (not open)
+  SecuritySupport$3.class (not open)
+  SecuritySupport$4.class (not open)
+  SecuritySupport$5.class (not open)
+  SecuritySupport$6.class (not open)
+  SecuritySupport$7.class (not open)
+  SecuritySupport$8.class (not open)
+  SecuritySupport.class (not open)
+  Serializer.class (not open)
+  SerializerFactory.class (not open)
+  SerializerFactoryImpl.class (not open)
+  TextSerializer.class (not open)
+  XHTMLSerializer.class (not open)
+  XML11Serializer.class (not open)
+  XMLSerializer.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:28.983
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.junit.experimental.theories.internal [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  AllMembersSupplier$1.class (not open)
+  AllMembersSupplier$MethodParameterValue.class (not open)
+  AllMembersSupplier.class (not open)
+  Assignments.class (not open)
+  BooleanSupplier.class (not open)
+  EnumSupplier.class (not open)
+  ParameterizedAssertionError.class (not open)
+  SpecificDataPointsSupplier.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:28.983
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.yaml.snakeyaml.representer [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  BaseRepresenter$1.class (not open)
+  BaseRepresenter.class (not open)
+  Represent.class (not open)
+  Representer$RepresentJavaBean.class (not open)
+  Representer.class (not open)
+  SafeRepresenter$IteratorWrapper.class (not open)
+  SafeRepresenter$RepresentArray.class (not open)
+  SafeRepresenter$RepresentBoolean.class (not open)
+  SafeRepresenter$RepresentByteArray.class (not open)
+  SafeRepresenter$RepresentDate.class (not open)
+  SafeRepresenter$RepresentEnum.class (not open)
+  SafeRepresenter$RepresentIterator.class (not open)
+  SafeRepresenter$RepresentList.class (not open)
+  SafeRepresenter$RepresentMap.class (not open)
+  SafeRepresenter$RepresentNull.class (not open)
+  SafeRepresenter$RepresentNumber.class (not open)
+  SafeRepresenter$RepresentPrimitiveArray.class (not open)
+  SafeRepresenter$RepresentSet.class (not open)
+  SafeRepresenter$RepresentString.class (not open)
+  SafeRepresenter.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:28.983
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.http.conn.util [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  DomainType.class (not open)
+  InetAddressUtils.class (not open)
+  PublicSuffixList.class (not open)
+  PublicSuffixListParser.class (not open)
+  PublicSuffixMatcher.class (not open)
+  PublicSuffixMatcherLoader.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:28.983
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.xml.sax.helpers [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  AttributeListImpl.class (not open)
+  AttributesImpl.class (not open)
+  DefaultHandler.class (not open)
+  LocatorImpl.class (not open)
+  NamespaceSupport$Context.class (not open)
+  NamespaceSupport.class (not open)
+  NewInstance.class (not open)
+  ParserAdapter$AttributeListAdapter.class (not open)
+  ParserAdapter.class (not open)
+  ParserFactory.class (not open)
+  SecuritySupport$1.class (not open)
+  SecuritySupport$2.class (not open)
+  SecuritySupport$3.class (not open)
+  SecuritySupport$4.class (not open)
+  SecuritySupport.class (not open)
+  XMLFilterImpl.class (not open)
+  XMLReaderAdapter$AttributesAdapter.class (not open)
+  XMLReaderAdapter.class (not open)
+  XMLReaderFactory.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:28.983
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.openqa.jetty.html [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  Applet.class (not open)
+  Block.class (not open)
+  Break.class (not open)
+  Comment.class (not open)
+  Composite.class (not open)
+  CompositeFactory.class (not open)
+  DefList.class (not open)
+  Element.class (not open)
+  Font.class (not open)
+  Form.class (not open)
+  Frame.class (not open)
+  FrameSet.class (not open)
+  Heading.class (not open)
+  Image.class (not open)
+  Include.class (not open)
+  Input.class (not open)
+  Link.class (not open)
+  List.class (not open)
+  Page.class (not open)
+  Script.class (not open)
+  Select.class (not open)
+  Style.class (not open)
+  StyleLink.class (not open)
+  Table.class (not open)
+  TableForm.class (not open)
+  Tag.class (not open)
+  Target.class (not open)
+  Text.class (not open)
+  TextArea.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:28.983
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.openqa.grid.images [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:28.983
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.openqa.selenium.support.events.internal [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  EventFiringKeyboard.class (not open)
+  EventFiringMouse.class (not open)
+  EventFiringTouch.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:28.983
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.bouncycastle [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  LICENSE.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:28.983
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.bouncycastle.asn1.oiw [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  ElGamalParameter.class (not open)
+  OIWObjectIdentifiers.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:28.983
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.eclipse.jetty.websocket.client [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  ClientUpgradeRequest.class (not open)
+  ClientUpgradeResponse.class (not open)
+  WebSocketClient.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:28.983
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.eclipse.jetty.security [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  AbstractUserAuthentication.class (not open)
+  Authenticator$AuthConfiguration.class (not open)
+  Authenticator$Factory.class (not open)
+  Authenticator.class (not open)
+  ConstraintAware.class (not open)
+  ConstraintMapping.class (not open)
+  ConstraintSecurityHandler.class (not open)
+  CrossContextPsuedoSession.class (not open)
+  DefaultAuthenticatorFactory.class (not open)
+  DefaultIdentityService.class (not open)
+  DefaultUserIdentity.class (not open)
+  HashCrossContextPsuedoSession.class (not open)
+  HashLoginService.class (not open)
+  IdentityService.class (not open)
+  JDBCLoginService.class (not open)
+  LoginService.class (not open)
+  MappedLoginService$Anonymous.class (not open)
+  MappedLoginService$KnownUser.class (not open)
+  MappedLoginService$RolePrincipal.class (not open)
+  MappedLoginService$UserPrincipal.class (not open)
+  MappedLoginService.class (not open)
+  PropertyUserStore$1.class (not open)
+  PropertyUserStore$2.class (not open)
+  PropertyUserStore$UserListener.class (not open)
+  PropertyUserStore.class (not open)
+  RoleInfo.class (not open)
+  RoleRunAsToken.class (not open)
+  RunAsToken.class (not open)
+  SecurityHandler$1.class (not open)
+  SecurityHandler$2.class (not open)
+  SecurityHandler$3.class (not open)
+  SecurityHandler$4.class (not open)
+  SecurityHandler$NotChecked.class (not open)
+  SecurityHandler.class (not open)
+  ServerAuthException.class (not open)
+  SpnegoLoginService.class (not open)
+  SpnegoUserIdentity.class (not open)
+  SpnegoUserPrincipal.class (not open)
+  UserAuthentication.class (not open)
+  UserDataConstraint.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:28.983
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.james.mime4j.field.structured.parser [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  ParseException.class (not open)
+  SimpleCharStream.class (not open)
+  StructuredFieldParser.class (not open)
+  StructuredFieldParserConstants.class (not open)
+  StructuredFieldParserTokenManager.class (not open)
+  Token.class (not open)
+  TokenMgrError.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:28.983
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:com.gargoylesoftware [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:28.983
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.bouncycastle.asn1.ocsp [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  BasicOCSPResponse.class (not open)
+  CertID.class (not open)
+  CertStatus.class (not open)
+  CrlID.class (not open)
+  OCSPObjectIdentifiers.class (not open)
+  OCSPRequest.class (not open)
+  OCSPResponse.class (not open)
+  OCSPResponseStatus.class (not open)
+  Request.class (not open)
+  ResponderID.class (not open)
+  ResponseBytes.class (not open)
+  ResponseData.class (not open)
+  RevokedInfo.class (not open)
+  ServiceLocator.class (not open)
+  Signature.class (not open)
+  SingleResponse.class (not open)
+  TBSRequest.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:28.983
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:net.sourceforge.htmlunit.corejs.javascript.debug [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  DebugFrame.class (not open)
+  DebuggableObject.class (not open)
+  DebuggableScript.class (not open)
+  Debugger.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:28.983
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:mx4j.tools.config [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  ConfigurationBuilder$Node.class (not open)
+  ConfigurationBuilder$ObjectsHolder.class (not open)
+  ConfigurationBuilder.class (not open)
+  ConfigurationException.class (not open)
+  ConfigurationLoader.class (not open)
+  ConfigurationLoaderMBean.class (not open)
+  DefaultConfigurationBuilder$AbstractNode.class (not open)
+  DefaultConfigurationBuilder$Arg.class (not open)
+  DefaultConfigurationBuilder$Call.class (not open)
+  DefaultConfigurationBuilder$Configuration.class (not open)
+  DefaultConfigurationBuilder$Create.class (not open)
+  DefaultConfigurationBuilder$New.class (not open)
+  DefaultConfigurationBuilder$Object.class (not open)
+  DefaultConfigurationBuilder$Register.class (not open)
+  DefaultConfigurationBuilder$Shutdown.class (not open)
+  DefaultConfigurationBuilder$Startup.class (not open)
+  DefaultConfigurationBuilder$Unregister.class (not open)
+  DefaultConfigurationBuilder.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:28.983
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.bouncycastle.crypto.parsers [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  DHIESPublicKeyParser.class (not open)
+  ECIESPublicKeyParser.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:28.983
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.http.impl.cookie [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  AbstractCookieAttributeHandler.class (not open)
+  AbstractCookieSpec.class (not open)
+  BasicClientCookie.class (not open)
+  BasicClientCookie2.class (not open)
+  BasicCommentHandler.class (not open)
+  BasicDomainHandler.class (not open)
+  BasicExpiresHandler.class (not open)
+  BasicMaxAgeHandler.class (not open)
+  BasicPathHandler.class (not open)
+  BasicSecureHandler.class (not open)
+  BestMatchSpec.class (not open)
+  BestMatchSpecFactory.class (not open)
+  BrowserCompatSpec$1.class (not open)
+  BrowserCompatSpec.class (not open)
+  BrowserCompatSpecFactory$SecurityLevel.class (not open)
+  BrowserCompatSpecFactory.class (not open)
+  BrowserCompatVersionAttributeHandler.class (not open)
+  CookieSpecBase.class (not open)
+  DateParseException.class (not open)
+  DateUtils.class (not open)
+  DefaultCookieSpec.class (not open)
+  DefaultCookieSpecProvider$1.class (not open)
+  DefaultCookieSpecProvider$CompatibilityLevel.class (not open)
+  DefaultCookieSpecProvider.class (not open)
+  IgnoreSpec.class (not open)
+  IgnoreSpecFactory.class (not open)
+  IgnoreSpecProvider.class (not open)
+  LaxExpiresHandler.class (not open)
+  LaxMaxAgeHandler.class (not open)
+  NetscapeDomainHandler.class (not open)
+  NetscapeDraftHeaderParser.class (not open)
+  NetscapeDraftSpec.class (not open)
+  NetscapeDraftSpecFactory.class (not open)
+  NetscapeDraftSpecProvider.class (not open)
+  PublicSuffixDomainFilter.class (not open)
+  PublicSuffixFilter.class (not open)
+  PublicSuffixListParser.class (not open)
+  RFC2109DomainHandler.class (not open)
+  RFC2109Spec.class (not open)
+  RFC2109SpecFactory.class (not open)
+  RFC2109SpecProvider.class (not open)
+  RFC2109VersionHandler.class (not open)
+  RFC2965CommentUrlAttributeHandler.class (not open)
+  RFC2965DiscardAttributeHandler.class (not open)
+  RFC2965DomainAttributeHandler.class (not open)
+  RFC2965PortAttributeHandler.class (not open)
+  RFC2965Spec.class (not open)
+  RFC2965SpecFactory.class (not open)
+  RFC2965SpecProvider.class (not open)
+  RFC2965VersionAttributeHandler.class (not open)
+  RFC6265CookieSpec.class (not open)
+  RFC6265CookieSpecBase.class (not open)
+  RFC6265CookieSpecProvider$1.class (not open)
+  RFC6265CookieSpecProvider$2.class (not open)
+  RFC6265CookieSpecProvider$CompatibilityLevel.class (not open)
+  RFC6265CookieSpecProvider.class (not open)
+  RFC6265LaxSpec.class (not open)
+  RFC6265StrictSpec.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:28.983
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.openqa.grid.common.exception [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  CapabilityNotPresentOnTheGridException.class (not open)
+  ClientGoneException.class (not open)
+  GridConfigurationException.class (not open)
+  GridException.class (not open)
+  RemoteException.class (not open)
+  RemoteNotReachableException.class (not open)
+  RemoteUnregisterException.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:28.983
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.bouncycastle.pqc.crypto.rainbow [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  Layer.class (not open)
+  RainbowKeyGenerationParameters.class (not open)
+  RainbowKeyPairGenerator.class (not open)
+  RainbowKeyParameters.class (not open)
+  RainbowParameters.class (not open)
+  RainbowPrivateKeyParameters.class (not open)
+  RainbowPublicKeyParameters.class (not open)
+  RainbowSigner.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:28.983
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.xerces.impl.dtd.models [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  CMAny.class (not open)
+  CMBinOp.class (not open)
+  CMLeaf.class (not open)
+  CMNode.class (not open)
+  CMStateSet.class (not open)
+  CMUniOp.class (not open)
+  ContentModelValidator.class (not open)
+  DFAContentModel.class (not open)
+  MixedContentModel.class (not open)
+  SimpleContentModel.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:28.983
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.testng.internal.remote [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  SlavePool.class (not open)
+  SocketLinkedBlockingQueue.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:28.983
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.bouncycastle.asn1.x509.qualified [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  BiometricData.class (not open)
+  ETSIQCObjectIdentifiers.class (not open)
+  Iso4217CurrencyCode.class (not open)
+  MonetaryValue.class (not open)
+  QCStatement.class (not open)
+  RFC3739QCObjectIdentifiers.class (not open)
+  SemanticsInformation.class (not open)
+  TypeOfBiometricData.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:28.983
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:javax.xml.xpath [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  SecuritySupport$1.class (not open)
+  SecuritySupport$2.class (not open)
+  SecuritySupport$3.class (not open)
+  SecuritySupport$4.class (not open)
+  SecuritySupport$5.class (not open)
+  SecuritySupport$6.class (not open)
+  SecuritySupport$7.class (not open)
+  SecuritySupport$8.class (not open)
+  SecuritySupport.class (not open)
+  XPath.class (not open)
+  XPathConstants.class (not open)
+  XPathException.class (not open)
+  XPathExpression.class (not open)
+  XPathExpressionException.class (not open)
+  XPathFactory.class (not open)
+  XPathFactoryConfigurationException.class (not open)
+  XPathFactoryFinder$1.class (not open)
+  XPathFactoryFinder$2.class (not open)
+  XPathFactoryFinder$SingleIterator.class (not open)
+  XPathFactoryFinder.class (not open)
+  XPathFunction.class (not open)
+  XPathFunctionException.class (not open)
+  XPathFunctionResolver.class (not open)
+  XPathVariableResolver.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:28.983
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.eclipse.jetty.server.handler.jmx [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  AbstractHandlerMBean.class (not open)
+  ContextHandlerMBean.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:28.983
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.openqa.selenium.remote.server [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  DriverSessions.class
+    interface DriverSessions
+  JsonParametersAware.class (not open)
+  KnownElements$1.class (not open)
+  KnownElements$ProxiedElement.class (not open)
+  KnownElements.class (not open)
+  Session.class (not open)
+  DriverServlet$DriverSessionsSupplier.class
+    class DriverSessionsSupplier
+  DriverServlet$StaticResourceHandler.class (not open)
+  DriverServlet.class
+    class DriverServlet
+  CapabilitiesComparator$1.class (not open)
+  CapabilitiesComparator$2.class (not open)
+  CapabilitiesComparator$3.class (not open)
+  CapabilitiesComparator$4.class (not open)
+  CapabilitiesComparator$5.class (not open)
+  CapabilitiesComparator$6.class (not open)
+  CapabilitiesComparator$CapabilityScorer.class (not open)
+  CapabilitiesComparator$CurrentPlatformScorer.class (not open)
+  CapabilitiesComparator$FuzzyPlatformScorer.class (not open)
+  CapabilitiesComparator$VersionScorer.class (not open)
+  CapabilitiesComparator.class (not open)
+  Clock.class (not open)
+  DefaultDriverFactory.class (not open)
+  DefaultDriverProvider.class (not open)
+  DefaultDriverSessions.class (not open)
+  DefaultSession$1.class (not open)
+  DefaultSession$BrowserCreator.class (not open)
+  DefaultSession.class (not open)
+  DriverFactory.class
+    interface DriverFactory
+  DriverProvider.class
+    interface DriverProvider
+  FirefoxDriverProvider.class (not open)
+  JsonHttpCommandHandler.class (not open)
+  MimeType.class (not open)
+  SessionCleaner.class (not open)
+  SnapshotScreenListener.class (not open)
+  SystemClock.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:28.983
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:28.983
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:com.gargoylesoftware.htmlunit.html [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  AbstractDomNodeList$1.class (not open)
+  AbstractDomNodeList$DomHtmlAttributeChangeListenerImpl.class (not open)
+  AbstractDomNodeList.class (not open)
+  BaseFrameElement$1.class (not open)
+  BaseFrameElement$2.class (not open)
+  BaseFrameElement.class (not open)
+  CharacterDataChangeEvent.class (not open)
+  CharacterDataChangeListener.class (not open)
+  DefaultElementFactory.class (not open)
+  DisabledElement.class (not open)
+  DoTypeProcessor.class (not open)
+  DomAttr.class (not open)
+  DomCDataSection.class (not open)
+  DomChangeEvent.class (not open)
+  DomChangeListener.class (not open)
+  DomCharacterData.class (not open)
+  DomComment.class (not open)
+  DomDocumentFragment.class (not open)
+  DomDocumentType.class (not open)
+  DomElement$1.class (not open)
+  DomElement$2.class (not open)
+  DomElement$ChildElementsIterable.class (not open)
+  DomElement$ChildElementsIterator.class (not open)
+  DomElement.class (not open)
+  DomNamespaceNode.class (not open)
+  DomNode$1.class (not open)
+  DomNode$2.class (not open)
+  DomNode$3.class (not open)
+  DomNode$4.class (not open)
+  DomNode$5.class (not open)
+  DomNode$6.class (not open)
+  DomNode$7.class (not open)
+  DomNode$ChildIterator.class (not open)
+  DomNode$DescendantElementsIterator.class (not open)
+  DomNode.class (not open)
+  DomNodeList.class (not open)
+  DomProcessingInstruction.class (not open)
+  DomText.class (not open)
+  ElementFactory.class (not open)
+  FormFieldWithNameHistory.class (not open)
+  FrameWindow.class (not open)
+  HTMLErrorHandler.class
+    class HTMLErrorHandler
+  HTMLParser$1.class (not open)
+  HTMLParser$HtmlUnitDOMBuilder$1.class (not open)
+  HTMLParser$HtmlUnitDOMBuilder$HeadParsed.class (not open)
+  HTMLParser$HtmlUnitDOMBuilder.class
+    class HtmlUnitDOMBuilder
+  HTMLParser.class
+    class HTMLParser
+  HTMLParserListener.class
+    interface HTMLParserListener
+  HTMLScannerForIE$ContentScannerForIE.class (not open)
+  HTMLScannerForIE.class
+    class HTMLScannerForIE
+  HtmlAbbreviated.class
+    class HtmlAbbreviated
+  HtmlAcronym.class
+    class HtmlAcronym
+  HtmlAddress.class
+    class HtmlAddress
+  HtmlAnchor.class
+    class HtmlAnchor
+  HtmlApplet.class
+    class HtmlApplet
+  HtmlArea.class
+    class HtmlArea
+  HtmlArticle.class
+    class HtmlArticle
+  HtmlAside.class
+    class HtmlAside
+  HtmlAttributeChangeEvent.class
+    class HtmlAttributeChangeEvent
+  HtmlAttributeChangeListener.class
+    interface HtmlAttributeChangeListener
+  HtmlAudio.class
+    class HtmlAudio
+  HtmlBackgroundSound.class
+    class HtmlBackgroundSound
+  HtmlBase.class
+    class HtmlBase
+  HtmlBaseFont.class
+    class HtmlBaseFont
+  HtmlBidirectionalIsolation.class
+    class HtmlBidirectionalIsolation
+  HtmlBidirectionalOverride.class
+    class HtmlBidirectionalOverride
+  HtmlBig.class
+    class HtmlBig
+  HtmlBlink.class
+    class HtmlBlink
+  HtmlBlockQuote.class
+    class HtmlBlockQuote
+  HtmlBody.class
+    class HtmlBody
+  HtmlBold.class
+    class HtmlBold
+  HtmlBreak.class
+    class HtmlBreak
+  HtmlButton.class
+    class HtmlButton
+  HtmlButtonInput.class
+    class HtmlButtonInput
+  HtmlCanvas.class
+    class HtmlCanvas
+  HtmlCaption.class
+    class HtmlCaption
+  HtmlCenter.class
+    class HtmlCenter
+  HtmlCheckBoxInput.class
+    class HtmlCheckBoxInput
+  HtmlCitation.class
+    class HtmlCitation
+  HtmlCode.class
+    class HtmlCode
+  HtmlColorInput.class
+    class HtmlColorInput
+  HtmlCommand.class
+    class HtmlCommand
+  HtmlContent.class
+    class HtmlContent
+  HtmlData.class
+    class HtmlData
+  HtmlDataList.class
+    class HtmlDataList
+  HtmlDateInput.class
+    class HtmlDateInput
+  HtmlDateTimeLocalInput.class
+    class HtmlDateTimeLocalInput
+  HtmlDefinition.class
+    class HtmlDefinition
+  HtmlDefinitionDescription.class
+    class HtmlDefinitionDescription
+  HtmlDefinitionList.class
+    class HtmlDefinitionList
+  HtmlDefinitionTerm.class
+    class HtmlDefinitionTerm
+  HtmlDeletedText.class
+    class HtmlDeletedText
+  HtmlDetails.class
+    class HtmlDetails
+  HtmlDialog.class
+    class HtmlDialog
+  HtmlDirectory.class
+    class HtmlDirectory
+  HtmlDivision.class
+    class HtmlDivision
+  HtmlElement$DisplayStyle.class (not open)
+  HtmlElement.class
+    class HtmlElement
+  HtmlEmbed.class
+    class HtmlEmbed
+  HtmlEmphasis.class
+    class HtmlEmphasis
+  HtmlExample.class
+    class HtmlExample
+  HtmlFieldSet.class
+    class HtmlFieldSet
+  HtmlFigure.class
+    class HtmlFigure
+  HtmlFigureCaption.class
+    class HtmlFigureCaption
+  HtmlFileInput.class
+    class HtmlFileInput
+  HtmlFont.class
+    class HtmlFont
+  HtmlFooter.class
+    class HtmlFooter
+  HtmlForm$1.class (not open)
+  HtmlForm$2.class (not open)
+  HtmlForm.class
+    class HtmlForm
+  HtmlFrame.class
+    class HtmlFrame
+  HtmlFrameSet.class
+    class HtmlFrameSet
+  HtmlHead.class
+    class HtmlHead
+  HtmlHeader.class
+    class HtmlHeader
+  HtmlHeading1.class
+    class HtmlHeading1
+  HtmlHeading2.class
+    class HtmlHeading2
+  HtmlHeading3.class
+    class HtmlHeading3
+  HtmlHeading4.class
+    class HtmlHeading4
+  HtmlHeading5.class
+    class HtmlHeading5
+  HtmlHeading6.class
+    class HtmlHeading6
+  HtmlHiddenInput.class
+    class HtmlHiddenInput
+  HtmlHorizontalRule.class
+    class HtmlHorizontalRule
+  HtmlHtml.class
+    class HtmlHtml
+  HtmlImage$1.class (not open)
+  HtmlImage$2.class (not open)
+  HtmlImage$ImageData.class (not open)
+  HtmlImage.class
+    class HtmlImage
+  HtmlImageInput.class
+    class HtmlImageInput
+  HtmlInlineFrame.class
+    class HtmlInlineFrame
+  HtmlInlineQuotation.class
+    class HtmlInlineQuotation
+  HtmlInput.class
+    class HtmlInput
+  HtmlInsertedText.class
+    class HtmlInsertedText
+  HtmlIsIndex.class
+    class HtmlIsIndex
+  HtmlItalic.class
+    class HtmlItalic
+  HtmlKeyboard.class
+    class HtmlKeyboard
+  HtmlKeygen.class
+    class HtmlKeygen
+  HtmlLabel.class
+    class HtmlLabel
+  HtmlLayer.class
+    class HtmlLayer
+  HtmlLegend.class
+    class HtmlLegend
+  HtmlLink.class
+    class HtmlLink
+  HtmlListItem.class
+    class HtmlListItem
+  HtmlListing.class
+    class HtmlListing
+  HtmlMain.class
+    class HtmlMain
+  HtmlMap.class
+    class HtmlMap
+  HtmlMark.class
+    class HtmlMark
+  HtmlMarquee.class
+    class HtmlMarquee
+  HtmlMedia.class
+    class HtmlMedia
+  HtmlMenu.class
+    class HtmlMenu
+  HtmlMenuItem.class
+    class HtmlMenuItem
+  HtmlMeta.class
+    class HtmlMeta
+  HtmlMeter.class
+    class HtmlMeter
+  HtmlMonthInput.class
+    class HtmlMonthInput
+  HtmlMultiColumn.class
+    class HtmlMultiColumn
+  HtmlNav.class
+    class HtmlNav
+  HtmlNextId.class
+    class HtmlNextId
+  HtmlNoBreak.class
+    class HtmlNoBreak
+  HtmlNoEmbed.class
+    class HtmlNoEmbed
+  HtmlNoFrames.class
+    class HtmlNoFrames
+  HtmlNoLayer.class
+    class HtmlNoLayer
+  HtmlNoScript.class
+    class HtmlNoScript
+  HtmlNumberInput.class
+    class HtmlNumberInput
+  HtmlObject.class
+    class HtmlObject
+  HtmlOption.class
+    class HtmlOption
+  HtmlOptionGroup.class
+    class HtmlOptionGroup
+  HtmlOrderedList.class
+    class HtmlOrderedList
+  HtmlOutput.class
+    class HtmlOutput
+  HtmlPage$1.class (not open)
+  HtmlPage$DocumentPositionComparator.class (not open)
+  HtmlPage$JavaScriptLoadResult.class (not open)
+  HtmlPage.class
+    class HtmlPage
+  HtmlParagraph.class
+    class HtmlParagraph
+  HtmlParameter.class
+    class HtmlParameter
+  HtmlPasswordInput.class
+    class HtmlPasswordInput
+  HtmlPicture.class
+    class HtmlPicture
+  HtmlPlainText.class
+    class HtmlPlainText
+  HtmlPreformattedText.class
+    class HtmlPreformattedText
+  HtmlProgress.class
+    class HtmlProgress
+  HtmlRadioButtonInput.class
+    class HtmlRadioButtonInput
+  HtmlRangeInput.class
+    class HtmlRangeInput
+  HtmlResetInput.class
+    class HtmlResetInput
+  HtmlRp.class
+    class HtmlRp
+  HtmlRt.class
+    class HtmlRt
+  HtmlRuby.class
+    class HtmlRuby
+  HtmlS.class
+    class HtmlS
+  HtmlSample.class
+    class HtmlSample
+  HtmlScript$1.class (not open)
+  HtmlScript$2.class (not open)
+  HtmlScript$3.class (not open)
+  HtmlScript.class
+    class HtmlScript
+  HtmlSearchInput.class
+    class HtmlSearchInput
+  HtmlSection.class
+    class HtmlSection
+  HtmlSelect.class
+    class HtmlSelect
+  HtmlSerializer.class
+    class HtmlSerializer
+  HtmlSmall.class
+    class HtmlSmall
+  HtmlSource.class
+    class HtmlSource
+  HtmlSpan.class
+    class HtmlSpan
+  HtmlStrike.class
+    class HtmlStrike
+  HtmlStrong.class
+    class HtmlStrong
+  HtmlStyle.class
+    class HtmlStyle
+  HtmlSubmitInput.class
+    class HtmlSubmitInput
+  HtmlSubscript.class
+    class HtmlSubscript
+  HtmlSummary.class
+    class HtmlSummary
+  HtmlSuperscript.class
+    class HtmlSuperscript
+  HtmlTable$RowIterator.class (not open)
+  HtmlTable.class
+    class HtmlTable
+  HtmlTableBody.class
+    class HtmlTableBody
+  HtmlTableCell.class
+    class HtmlTableCell
+  HtmlTableColumn.class
+    class HtmlTableColumn
+  HtmlTableColumnGroup.class
+    class HtmlTableColumnGroup
+  HtmlTableDataCell.class
+    class HtmlTableDataCell
+  HtmlTableFooter.class
+    class HtmlTableFooter
+  HtmlTableHeader.class
+    class HtmlTableHeader
+  HtmlTableHeaderCell.class
+    class HtmlTableHeaderCell
+  HtmlTableRow$CellIterator.class (not open)
+  HtmlTableRow.class
+    class HtmlTableRow
+  HtmlTeletype.class
+    class HtmlTeletype
+  HtmlTemplate.class
+    class HtmlTemplate
+  HtmlTextArea.class
+    class HtmlTextArea
+  HtmlTextInput.class
+    class HtmlTextInput
+  HtmlTime.class
+    class HtmlTime
+  HtmlTimeInput.class
+    class HtmlTimeInput
+  HtmlTitle.class
+    class HtmlTitle
+  HtmlTrack.class
+    class HtmlTrack
+  HtmlUnderlined.class
+    class HtmlUnderlined
+  HtmlUnknownElement.class
+    class HtmlUnknownElement
+  HtmlUnorderedList.class
+    class HtmlUnorderedList
+  HtmlVariable.class
+    class HtmlVariable
+  HtmlVideo.class
+    class HtmlVideo
+  HtmlWeekInput.class
+    class HtmlWeekInput
+  HtmlWordBreak.class
+    class HtmlWordBreak
+  IEConditionalCommentExpressionEvaluator.class (not open)
+  InputElementFactory.class (not open)
+  Keyboard.class (not open)
+  NamedAttrNodeMapImpl.class (not open)
+  SiblingDomNodeList$SiblingListIterator.class (not open)
+  SiblingDomNodeList.class (not open)
+  SimpleHTMLParserListener.class (not open)
+  StaticDomNodeList.class (not open)
+  SubmittableElement.class (not open)
+  TableRowGroup.class (not open)
+  UnknownElementFactory.class (not open)
+  XHtmlPage.class (not open)
+  XmlSerializer.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:28.983
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:javax.xml.transform.sax [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  SAXResult.class (not open)
+  SAXSource.class (not open)
+  SAXTransformerFactory.class (not open)
+  TemplatesHandler.class (not open)
+  TransformerHandler.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:28.983
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:mx4j.tools.i18n [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  I18NStandardMBean$NestedResourceBundle.class (not open)
+  I18NStandardMBean.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:28.983
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:com.sun.jna.ptr [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  ByReference.class (not open)
+  ByteByReference.class (not open)
+  DoubleByReference.class (not open)
+  FloatByReference.class (not open)
+  IntByReference.class (not open)
+  LongByReference.class (not open)
+  NativeLongByReference.class (not open)
+  PointerByReference.class (not open)
+  ShortByReference.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:28.983
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.http.pool [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  AbstractConnPool$1.class (not open)
+  AbstractConnPool$2.class (not open)
+  AbstractConnPool$3.class (not open)
+  AbstractConnPool$4.class (not open)
+  AbstractConnPool.class (not open)
+  ConnFactory.class (not open)
+  ConnPool.class (not open)
+  ConnPoolControl.class (not open)
+  PoolEntry.class (not open)
+  PoolEntryCallback.class (not open)
+  PoolEntryFuture.class (not open)
+  PoolStats.class (not open)
+  RouteSpecificPool.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:28.983
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.seleniumhq.jetty9 [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:28.983
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:mx4j.tools.remote.soap [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  ClientExceptionCatcher.class (not open)
+  ConnectionIDRequestHandler.class (not open)
+  SOAPClientInvoker.class (not open)
+  SOAPConnector.class (not open)
+  SOAPConstants.class (not open)
+  SOAPService.class (not open)
+  SSLSOAPService.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:28.983
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.testng.asserts [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  Assertion$1.class (not open)
+  Assertion$10.class (not open)
+  Assertion$11.class (not open)
+  Assertion$12.class (not open)
+  Assertion$13.class (not open)
+  Assertion$14.class (not open)
+  Assertion$15.class (not open)
+  Assertion$16.class (not open)
+  Assertion$17.class (not open)
+  Assertion$18.class (not open)
+  Assertion$19.class (not open)
+  Assertion$2.class (not open)
+  Assertion$20.class (not open)
+  Assertion$21.class (not open)
+  Assertion$22.class (not open)
+  Assertion$23.class (not open)
+  Assertion$24.class (not open)
+  Assertion$25.class (not open)
+  Assertion$26.class (not open)
+  Assertion$27.class (not open)
+  Assertion$28.class (not open)
+  Assertion$29.class (not open)
+  Assertion$3.class (not open)
+  Assertion$30.class (not open)
+  Assertion$31.class (not open)
+  Assertion$32.class (not open)
+  Assertion$33.class (not open)
+  Assertion$34.class (not open)
+  Assertion$35.class (not open)
+  Assertion$36.class (not open)
+  Assertion$37.class (not open)
+  Assertion$38.class (not open)
+  Assertion$39.class (not open)
+  Assertion$4.class (not open)
+  Assertion$40.class (not open)
+  Assertion$41.class (not open)
+  Assertion$42.class (not open)
+  Assertion$43.class (not open)
+  Assertion$44.class (not open)
+  Assertion$45.class (not open)
+  Assertion$46.class (not open)
+  Assertion$47.class (not open)
+  Assertion$48.class (not open)
+  Assertion$49.class (not open)
+  Assertion$5.class (not open)
+  Assertion$50.class (not open)
+  Assertion$51.class (not open)
+  Assertion$52.class (not open)
+  Assertion$53.class (not open)
+  Assertion$54.class (not open)
+  Assertion$55.class (not open)
+  Assertion$56.class (not open)
+  Assertion$57.class (not open)
+  Assertion$58.class (not open)
+  Assertion$59.class (not open)
+  Assertion$6.class (not open)
+  Assertion$60.class (not open)
+  Assertion$61.class (not open)
+  Assertion$62.class (not open)
+  Assertion$63.class (not open)
+  Assertion$64.class (not open)
+  Assertion$65.class (not open)
+  Assertion$66.class (not open)
+  Assertion$7.class (not open)
+  Assertion$8.class (not open)
+  Assertion$9.class (not open)
+  Assertion$SimpleAssert.class (not open)
+  Assertion.class (not open)
+  IAssert.class (not open)
+  IAssertLifecycle.class (not open)
+  LoggingAssert.class (not open)
+  SoftAssert.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:28.983
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:net.sf.cglib.transform.hook [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  AbstractPreProcessor.class (not open)
+  AsmClassLoaderPreProcessor$1.class (not open)
+  AsmClassLoaderPreProcessor$PreProcessingVisitor.class (not open)
+  AsmClassLoaderPreProcessor.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:28.983
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.xalan.xsltc [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  CollatorFactory.class (not open)
+  DOM.class (not open)
+  DOMCache.class (not open)
+  DOMEnhancedForDTM.class (not open)
+  NodeIterator.class (not open)
+  ProcessorVersion.class (not open)
+  StripFilter.class (not open)
+  Translet.class (not open)
+  TransletException.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:28.983
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.xpath.objects [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  Comparator.class (not open)
+  DTMXRTreeFrag.class (not open)
+  EqualComparator.class (not open)
+  GreaterThanComparator.class (not open)
+  GreaterThanOrEqualComparator.class (not open)
+  LessThanComparator.class (not open)
+  LessThanOrEqualComparator.class (not open)
+  NotEqualComparator.class (not open)
+  XBoolean.class (not open)
+  XBooleanStatic.class (not open)
+  XMLStringFactoryImpl.class (not open)
+  XNodeSet.class (not open)
+  XNodeSetForDOM.class (not open)
+  XNull.class (not open)
+  XNumber.class (not open)
+  XObject.class (not open)
+  XObjectFactory.class (not open)
+  XRTreeFrag.class (not open)
+  XRTreeFragSelectWrapper.class (not open)
+  XString.class (not open)
+  XStringForChars.class (not open)
+  XStringForFSB.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:28.983
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.bouncycastle.jcajce.io [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  MacOutputStream.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:28.983
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:mx4j.tools.adaptor.http.xsl [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:28.999
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.http.message [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  AbstractHttpMessage.class (not open)
+  BasicHeader.class (not open)
+  BasicHeaderElement.class (not open)
+  BasicHeaderElementIterator.class (not open)
+  BasicHeaderIterator.class (not open)
+  BasicHeaderValueFormatter.class (not open)
+  BasicHeaderValueParser.class (not open)
+  BasicHttpEntityEnclosingRequest.class (not open)
+  BasicHttpRequest.class (not open)
+  BasicHttpResponse.class (not open)
+  BasicLineFormatter.class (not open)
+  BasicLineParser.class (not open)
+  BasicListHeaderIterator.class (not open)
+  BasicNameValuePair.class (not open)
+  BasicRequestLine.class (not open)
+  BasicStatusLine.class (not open)
+  BasicTokenIterator.class (not open)
+  BufferedHeader.class (not open)
+  HeaderGroup.class (not open)
+  HeaderValueFormatter.class (not open)
+  HeaderValueParser.class (not open)
+  LineFormatter.class (not open)
+  LineParser.class (not open)
+  ParserCursor.class (not open)
+  TokenParser.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:28.999
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.jboss.netty.handler.codec.protobuf [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  ProtobufDecoder.class (not open)
+  ProtobufEncoder.class (not open)
+  ProtobufVarint32FrameDecoder.class (not open)
+  ProtobufVarint32LengthFieldPrepender.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:28.999
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:com.gargoylesoftware.htmlunit.javascript.regexp [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  HtmlUnitRegExpProxy$FixedSubString.class (not open)
+  HtmlUnitRegExpProxy$RegExpData.class (not open)
+  HtmlUnitRegExpProxy.class
+    class HtmlUnitRegExpProxy
+  RegExpJsToJavaConverter$1.class (not open)
+  RegExpJsToJavaConverter$Subexpresion.class (not open)
+  RegExpJsToJavaConverter$Tape.class (not open)
+  RegExpJsToJavaConverter.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:28.999
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.eclipse.jetty.websocket.common.io [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  AbstractWebSocketConnection$1.class (not open)
+  AbstractWebSocketConnection$Flusher.class (not open)
+  AbstractWebSocketConnection$OnCloseLocalCallback.class (not open)
+  AbstractWebSocketConnection$OnDisconnectCallback.class (not open)
+  AbstractWebSocketConnection$ReadMode.class (not open)
+  AbstractWebSocketConnection$Stats.class (not open)
+  AbstractWebSocketConnection.class (not open)
+  FrameFlusher$1.class (not open)
+  FrameFlusher$Flusher.class (not open)
+  FrameFlusher$FrameEntry.class (not open)
+  FrameFlusher.class (not open)
+  FramePipes$In2Out.class (not open)
+  FramePipes$Out2In.class (not open)
+  FramePipes.class (not open)
+  FutureWriteCallback.class (not open)
+  IOState$CloseHandshakeSource.class (not open)
+  IOState$ConnectionStateListener.class (not open)
+  IOState.class (not open)
+  WriteCallbackWrapper.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:28.999
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:com.google [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:28.999
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:bsh.servlet [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  BshServlet.class (not open)
+  SimpleTemplate.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:28.999
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.seleniumhq.jetty9.util.statistic [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  CounterStatistic.class (not open)
+  SampleStatistic.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:28.999
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.xalan.xsltc.compiler [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  AbsoluteLocationPath.class (not open)
+  AbsolutePathPattern.class (not open)
+  AlternativePattern.class (not open)
+  AncestorPattern.class (not open)
+  ApplyImports.class (not open)
+  ApplyTemplates.class (not open)
+  ArgumentList.class (not open)
+  Attribute.class (not open)
+  AttributeSet.class (not open)
+  AttributeValue.class (not open)
+  AttributeValueTemplate.class (not open)
+  BinOpExpr.class (not open)
+  BooleanCall.class (not open)
+  BooleanExpr.class (not open)
+  CUP$XPathParser$actions.class (not open)
+  CallTemplate.class (not open)
+  CastCall.class (not open)
+  CastExpr.class (not open)
+  CeilingCall.class (not open)
+  Choose.class (not open)
+  Closure.class (not open)
+  Comment.class (not open)
+  CompilerException.class (not open)
+  ConcatCall.class (not open)
+  Constants.class (not open)
+  ContainsCall.class (not open)
+  Copy.class (not open)
+  CopyOf.class (not open)
+  CurrentCall.class (not open)
+  DecimalFormatting.class (not open)
+  DocumentCall.class (not open)
+  ElementAvailableCall.class (not open)
+  EqualityExpr.class (not open)
+  Expression.class (not open)
+  Fallback.class (not open)
+  FilterExpr.class (not open)
+  FilterParentPath.class (not open)
+  FilteredAbsoluteLocationPath.class (not open)
+  FloorCall.class (not open)
+  FlowList.class (not open)
+  ForEach.class (not open)
+  FormatNumberCall.class (not open)
+  FunctionAvailableCall.class (not open)
+  FunctionCall$JavaType.class (not open)
+  FunctionCall.class (not open)
+  GenerateIdCall.class (not open)
+  IdKeyPattern.class (not open)
+  IdPattern.class (not open)
+  If.class (not open)
+  IllegalCharException.class (not open)
+  Import.class (not open)
+  Include.class (not open)
+  Instruction.class (not open)
+  IntExpr.class (not open)
+  Key.class (not open)
+  KeyCall.class (not open)
+  KeyPattern.class (not open)
+  LangCall.class (not open)
+  LastCall.class (not open)
+  LiteralAttribute.class (not open)
+  LiteralElement.class (not open)
+  LiteralExpr.class (not open)
+  LocalNameCall.class (not open)
+  LocationPathPattern.class (not open)
+  LogicalExpr.class (not open)
+  Message.class (not open)
+  Mode.class (not open)
+  NameBase.class (not open)
+  NameCall.class (not open)
+  NamespaceAlias.class (not open)
+  NamespaceUriCall.class (not open)
+  NodeTest.class (not open)
+  NotCall.class (not open)
+  Number.class (not open)
+  NumberCall.class (not open)
+  ObjectFactory$ConfigurationError.class (not open)
+  ObjectFactory.class (not open)
+  Otherwise.class (not open)
+  Output.class (not open)
+  Param.class (not open)
+  ParameterRef.class (not open)
+  ParentLocationPath.class (not open)
+  ParentPattern.class (not open)
+  Parser.class (not open)
+  Pattern.class (not open)
+  PositionCall.class (not open)
+  Predicate.class (not open)
+  ProcessingInstruction.class (not open)
+  ProcessingInstructionPattern.class (not open)
+  QName.class (not open)
+  RealExpr.class (not open)
+  RelationalExpr.class (not open)
+  RelativeLocationPath.class (not open)
+  RelativePathPattern.class (not open)
+  RoundCall.class (not open)
+  SecuritySupport$1.class (not open)
+  SecuritySupport$2.class (not open)
+  SecuritySupport$3.class (not open)
+  SecuritySupport$4.class (not open)
+  SecuritySupport$5.class (not open)
+  SecuritySupport$6.class (not open)
+  SecuritySupport$7.class (not open)
+  SecuritySupport$8.class (not open)
+  SecuritySupport.class (not open)
+  SimpleAttributeValue.class (not open)
+  Sort.class (not open)
+  SourceLoader.class (not open)
+  StartsWithCall.class (not open)
+  Step.class (not open)
+  StepPattern.class (not open)
+  StringCall.class (not open)
+  StringLengthCall.class (not open)
+  Stylesheet.class (not open)
+  SymbolTable.class (not open)
+  SyntaxTreeNode.class (not open)
+  Template.class (not open)
+  TestSeq.class (not open)
+  Text.class (not open)
+  TopLevelElement.class (not open)
+  TransletOutput.class (not open)
+  UnaryOpExpr.class (not open)
+  UnionPathExpr.class (not open)
+  UnparsedEntityUriCall.class (not open)
+  UnresolvedRef.class (not open)
+  UnsupportedElement.class (not open)
+  UseAttributeSets.class (not open)
+  ValueOf.class (not open)
+  Variable.class (not open)
+  VariableBase.class (not open)
+  VariableRef.class (not open)
+  VariableRefBase.class (not open)
+  When.class (not open)
+  Whitespace$WhitespaceRule.class (not open)
+  Whitespace.class (not open)
+  WithParam.class (not open)
+  XPathLexer.class (not open)
+  XPathParser.class (not open)
+  XSLTC.class (not open)
+  XslAttribute.class (not open)
+  XslElement.class (not open)
+  sym.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:28.999
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.jboss.netty.handler.codec.http.websocket [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  DefaultWebSocketFrame.class (not open)
+  WebSocketFrame.class (not open)
+  WebSocketFrameDecoder.class (not open)
+  WebSocketFrameEncoder.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:28.999
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.openqa.selenium.interactions.internal [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  Coordinates.class (not open)
+  BaseAction.class (not open)
+  DisplayAction.class (not open)
+  KeysRelatedAction.class (not open)
+  MouseAction$Button.class (not open)
+  MouseAction.class (not open)
+  MultiAction.class (not open)
+  SingleKeyAction.class (not open)
+  TouchAction.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:28.999
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.bouncycastle.crypto.tls [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  AlertDescription.class (not open)
+  AlertLevel.class (not open)
+  AlwaysValidVerifyer.class (not open)
+  ByteQueue.class (not open)
+  Certificate.class (not open)
+  CertificateRequest.class (not open)
+  CertificateVerifyer.class (not open)
+  CipherSuite.class (not open)
+  ClientCertificateType.class (not open)
+  CombinedHash.class (not open)
+  CompressionMethod.class (not open)
+  ContentType.class (not open)
+  DefaultTlsAgreementCredentials.class (not open)
+  DefaultTlsCipherFactory.class (not open)
+  DefaultTlsClient.class (not open)
+  DefaultTlsSignerCredentials.class (not open)
+  DigestAlgorithm.class (not open)
+  ECCurveType.class (not open)
+  ECPointFormat.class (not open)
+  EncryptionAlgorithm.class (not open)
+  ExtensionType.class (not open)
+  HandshakeType.class (not open)
+  KeyExchangeAlgorithm.class (not open)
+  LegacyTlsAuthentication.class (not open)
+  LegacyTlsClient.class (not open)
+  NamedCurve.class (not open)
+  PSKTlsClient.class (not open)
+  ProtocolVersion.class (not open)
+  RecordStream.class (not open)
+  SRPTlsClient.class (not open)
+  SSL3Mac.class (not open)
+  SecurityParameters.class (not open)
+  TlsAgreementCredentials.class (not open)
+  TlsAuthentication.class (not open)
+  TlsBlockCipher.class (not open)
+  TlsCipher.class (not open)
+  TlsCipherFactory.class (not open)
+  TlsClient.class (not open)
+  TlsClientContext.class (not open)
+  TlsClientContextImpl.class (not open)
+  TlsCompression.class (not open)
+  TlsCredentials.class (not open)
+  TlsDHEKeyExchange.class (not open)
+  TlsDHKeyExchange.class (not open)
+  TlsDHUtils.class (not open)
+  TlsDSASigner.class (not open)
+  TlsDSSSigner.class (not open)
+  TlsECDHEKeyExchange.class (not open)
+  TlsECDHKeyExchange.class (not open)
+  TlsECDSASigner.class (not open)
+  TlsFatalAlert.class (not open)
+  TlsInputStream.class (not open)
+  TlsKeyExchange.class (not open)
+  TlsMac.class (not open)
+  TlsNullCipher.class (not open)
+  TlsNullCompression.class (not open)
+  TlsOutputStream.class (not open)
+  TlsPSKIdentity.class (not open)
+  TlsPSKKeyExchange.class (not open)
+  TlsProtocolHandler.class (not open)
+  TlsRSAKeyExchange.class (not open)
+  TlsRSASigner.class (not open)
+  TlsRSAUtils.class (not open)
+  TlsRuntimeException.class (not open)
+  TlsSRPKeyExchange.class (not open)
+  TlsSigner.class (not open)
+  TlsSignerCredentials.class (not open)
+  TlsStreamCipher.class (not open)
+  TlsUtils.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:28.999
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.xerces.impl.dv.xs [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  AbstractDateTimeDV$DateTimeData.class (not open)
+  AbstractDateTimeDV.class (not open)
+  AnyAtomicDV.class (not open)
+  AnySimpleDV.class (not open)
+  AnyURIDV.class (not open)
+  Base64BinaryDV$XBase64.class (not open)
+  Base64BinaryDV.class (not open)
+  BaseDVFactory.class (not open)
+  BaseSchemaDVFactory.class (not open)
+  BooleanDV.class (not open)
+  DateDV.class (not open)
+  DateTimeDV.class (not open)
+  DayDV.class (not open)
+  DayTimeDurationDV.class (not open)
+  DecimalDV$XDecimal.class (not open)
+  DecimalDV.class (not open)
+  DoubleDV$XDouble.class (not open)
+  DoubleDV.class (not open)
+  DurationDV.class (not open)
+  EntityDV.class (not open)
+  ExtendedSchemaDVFactoryImpl.class (not open)
+  FloatDV$XFloat.class (not open)
+  FloatDV.class (not open)
+  FullDVFactory.class (not open)
+  HexBinaryDV$XHex.class (not open)
+  HexBinaryDV.class (not open)
+  IDDV.class (not open)
+  IDREFDV.class (not open)
+  IntegerDV.class (not open)
+  ListDV$ListData.class (not open)
+  ListDV.class (not open)
+  MonthDV.class (not open)
+  MonthDayDV.class (not open)
+  PrecisionDecimalDV$XPrecisionDecimal.class (not open)
+  PrecisionDecimalDV.class (not open)
+  QNameDV$XQName.class (not open)
+  QNameDV.class (not open)
+  SchemaDVFactoryImpl.class (not open)
+  SchemaDateTimeException.class (not open)
+  StringDV.class (not open)
+  TimeDV.class (not open)
+  TypeValidator.class (not open)
+  UnionDV.class (not open)
+  XSSimpleTypeDecl$1.class (not open)
+  XSSimpleTypeDecl$2.class (not open)
+  XSSimpleTypeDecl$3.class (not open)
+  XSSimpleTypeDecl$4.class (not open)
+  XSSimpleTypeDecl$AbstractObjectList.class (not open)
+  XSSimpleTypeDecl$ValidationContextImpl.class (not open)
+  XSSimpleTypeDecl$XSFacetImpl.class (not open)
+  XSSimpleTypeDecl$XSMVFacetImpl.class (not open)
+  XSSimpleTypeDecl.class (not open)
+  XSSimpleTypeDelegate.class (not open)
+  YearDV.class (not open)
+  YearMonthDV.class (not open)
+  YearMonthDurationDV.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:28.999
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:com.google.common.hash [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  AbstractByteHasher.class (not open)
+  AbstractCompositeHashFunction$1.class (not open)
+  AbstractCompositeHashFunction.class (not open)
+  AbstractHasher.class (not open)
+  AbstractNonStreamingHashFunction$BufferingHasher.class (not open)
+  AbstractNonStreamingHashFunction$ExposedByteArrayOutputStream.class (not open)
+  AbstractNonStreamingHashFunction.class (not open)
+  AbstractStreamingHashFunction$AbstractStreamingHasher.class (not open)
+  AbstractStreamingHashFunction.class (not open)
+  BloomFilter$1.class (not open)
+  BloomFilter$SerialForm.class (not open)
+  BloomFilter$Strategy.class (not open)
+  BloomFilter.class (not open)
+  BloomFilterStrategies$1.class (not open)
+  BloomFilterStrategies$2.class (not open)
+  BloomFilterStrategies$BitArray.class (not open)
+  BloomFilterStrategies.class (not open)
+  ChecksumHashFunction$1.class (not open)
+  ChecksumHashFunction$ChecksumHasher.class (not open)
+  ChecksumHashFunction.class (not open)
+  Crc32cHashFunction$Crc32cHasher.class (not open)
+  Crc32cHashFunction.class (not open)
+  Funnel.class (not open)
+  Funnels$ByteArrayFunnel.class (not open)
+  Funnels$IntegerFunnel.class (not open)
+  Funnels$LongFunnel.class (not open)
+  Funnels$SequentialFunnel.class (not open)
+  Funnels$SinkAsStream.class (not open)
+  Funnels$StringCharsetFunnel$SerializedForm.class (not open)
+  Funnels$StringCharsetFunnel.class (not open)
+  Funnels$UnencodedCharsFunnel.class (not open)
+  Funnels.class (not open)
+  HashCode$BytesHashCode.class (not open)
+  HashCode$IntHashCode.class (not open)
+  HashCode$LongHashCode.class (not open)
+  HashCode.class (not open)
+  HashFunction.class (not open)
+  Hasher.class (not open)
+  Hashing$1.class (not open)
+  Hashing$Adler32Holder.class (not open)
+  Hashing$ChecksumType$1.class (not open)
+  Hashing$ChecksumType$2.class (not open)
+  Hashing$ChecksumType.class (not open)
+  Hashing$ConcatenatedHashFunction.class (not open)
+  Hashing$Crc32Holder.class (not open)
+  Hashing$Crc32cHolder.class (not open)
+  Hashing$LinearCongruentialGenerator.class (not open)
+  Hashing$Md5Holder.class (not open)
+  Hashing$Murmur3_128Holder.class (not open)
+  Hashing$Murmur3_32Holder.class (not open)
+  Hashing$Sha1Holder.class (not open)
+  Hashing$Sha256Holder.class (not open)
+  Hashing$Sha384Holder.class (not open)
+  Hashing$Sha512Holder.class (not open)
+  Hashing$SipHash24Holder.class (not open)
+  Hashing.class (not open)
+  HashingInputStream.class (not open)
+  HashingOutputStream.class (not open)
+  MessageDigestHashFunction$1.class (not open)
+  MessageDigestHashFunction$MessageDigestHasher.class (not open)
+  MessageDigestHashFunction$SerializedForm.class (not open)
+  MessageDigestHashFunction.class (not open)
+  Murmur3_128HashFunction$Murmur3_128Hasher.class (not open)
+  Murmur3_128HashFunction.class (not open)
+  Murmur3_32HashFunction$Murmur3_32Hasher.class (not open)
+  Murmur3_32HashFunction.class (not open)
+  PrimitiveSink.class (not open)
+  SipHashFunction$SipHasher.class (not open)
+  SipHashFunction.class (not open)
+  package-info.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:28.999
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.junit.matchers [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  JUnitMatchers.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:28.999
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.http.entity.mime [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  AbstractMultipartForm.class (not open)
+  FormBodyPart.class (not open)
+  FormBodyPartBuilder.class (not open)
+  Header.class (not open)
+  HttpBrowserCompatibleMultipart.class (not open)
+  HttpMultipart$1.class (not open)
+  HttpMultipart.class (not open)
+  HttpMultipartMode.class (not open)
+  HttpRFC6532Multipart.class (not open)
+  HttpStrictMultipart.class (not open)
+  MIME.class (not open)
+  MinimalField.class (not open)
+  MultipartEntity.class (not open)
+  MultipartEntityBuilder$1.class (not open)
+  MultipartEntityBuilder.class (not open)
+  MultipartFormEntity.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:28.999
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.http.client.config [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  AuthSchemes.class (not open)
+  CookieSpecs.class (not open)
+  RequestConfig$Builder.class (not open)
+  RequestConfig.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:28.999
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:com.beust.testng [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  TestNG.class (not open)
+  TestNGAntTask.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:28.999
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:junit.textui [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  ResultPrinter.class (not open)
+  TestRunner.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:28.999
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.junit.experimental.results [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  FailureList.class (not open)
+  PrintableResult.class (not open)
+  ResultMatchers$1.class (not open)
+  ResultMatchers$2.class (not open)
+  ResultMatchers$3.class (not open)
+  ResultMatchers.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:28.999
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.bouncycastle.jce.exception [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  ExtCertPathBuilderException.class (not open)
+  ExtCertPathValidatorException.class (not open)
+  ExtCertificateEncodingException.class (not open)
+  ExtException.class (not open)
+  ExtIOException.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:28.999
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.xml.sax [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  AttributeList.class (not open)
+  Attributes.class (not open)
+  ContentHandler.class (not open)
+  DTDHandler.class (not open)
+  DocumentHandler.class (not open)
+  EntityResolver.class (not open)
+  ErrorHandler.class (not open)
+  HandlerBase.class (not open)
+  InputSource.class (not open)
+  Locator.class (not open)
+  Parser.class (not open)
+  SAXException.class (not open)
+  SAXNotRecognizedException.class (not open)
+  SAXNotSupportedException.class (not open)
+  SAXParseException.class (not open)
+  XMLFilter.class (not open)
+  XMLReader.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:28.999
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.eclipse.jetty.websocket.common.extensions.compress [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  ByteAccumulator$1.class (not open)
+  ByteAccumulator$Chunk.class (not open)
+  ByteAccumulator.class (not open)
+  CompressExtension$1.class (not open)
+  CompressExtension$Flusher.class (not open)
+  CompressExtension$FrameEntry.class (not open)
+  CompressExtension.class (not open)
+  DeflateFrameExtension.class (not open)
+  PerMessageDeflateExtension$1.class (not open)
+  PerMessageDeflateExtension.class (not open)
+  XWebkitDeflateFrameExtension.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:28.999
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:javax.servlet.jsp [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  ErrorData.class (not open)
+  HttpJspPage.class (not open)
+  JspContext.class (not open)
+  JspEngineInfo.class (not open)
+  JspException.class (not open)
+  JspFactory.class (not open)
+  JspPage.class (not open)
+  JspTagException.class (not open)
+  JspWriter.class (not open)
+  PageContext.class (not open)
+  SkipPageException.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:28.999
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.w3c.css.sac.helpers [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  ParserFactory.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:28.999
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.xml.dtm.ref [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  ChunkedIntArray$ChunksVector.class (not open)
+  ChunkedIntArray.class (not open)
+  CoroutineManager.class (not open)
+  CoroutineParser.class (not open)
+  CustomStringPool.class (not open)
+  DTMAxisIterNodeList.class (not open)
+  DTMAxisIteratorBase.class (not open)
+  DTMChildIterNodeList.class (not open)
+  DTMDefaultBase.class (not open)
+  DTMDefaultBaseIterators$AncestorIterator.class (not open)
+  DTMDefaultBaseIterators$AttributeIterator.class (not open)
+  DTMDefaultBaseIterators$ChildrenIterator.class (not open)
+  DTMDefaultBaseIterators$DescendantIterator.class (not open)
+  DTMDefaultBaseIterators$FollowingIterator.class (not open)
+  DTMDefaultBaseIterators$FollowingSiblingIterator.class (not open)
+  DTMDefaultBaseIterators$InternalAxisIteratorBase.class (not open)
+  DTMDefaultBaseIterators$NamespaceAttributeIterator.class (not open)
+  DTMDefaultBaseIterators$NamespaceChildrenIterator.class (not open)
+  DTMDefaultBaseIterators$NamespaceIterator.class (not open)
+  DTMDefaultBaseIterators$NthDescendantIterator.class (not open)
+  DTMDefaultBaseIterators$ParentIterator.class (not open)
+  DTMDefaultBaseIterators$PrecedingIterator.class (not open)
+  DTMDefaultBaseIterators$PrecedingSiblingIterator.class (not open)
+  DTMDefaultBaseIterators$RootIterator.class (not open)
+  DTMDefaultBaseIterators$SingletonIterator.class (not open)
+  DTMDefaultBaseIterators$TypedAncestorIterator.class (not open)
+  DTMDefaultBaseIterators$TypedAttributeIterator.class (not open)
+  DTMDefaultBaseIterators$TypedChildrenIterator.class (not open)
+  DTMDefaultBaseIterators$TypedDescendantIterator.class (not open)
+  DTMDefaultBaseIterators$TypedFollowingIterator.class (not open)
+  DTMDefaultBaseIterators$TypedFollowingSiblingIterator.class (not open)
+  DTMDefaultBaseIterators$TypedNamespaceIterator.class (not open)
+  DTMDefaultBaseIterators$TypedPrecedingIterator.class (not open)
+  DTMDefaultBaseIterators$TypedPrecedingSiblingIterator.class (not open)
+  DTMDefaultBaseIterators$TypedRootIterator.class (not open)
+  DTMDefaultBaseIterators$TypedSingletonIterator.class (not open)
+  DTMDefaultBaseIterators.class (not open)
+  DTMDefaultBaseTraversers$1.class (not open)
+  DTMDefaultBaseTraversers$AllFromNodeTraverser.class (not open)
+  DTMDefaultBaseTraversers$AllFromRootTraverser.class (not open)
+  DTMDefaultBaseTraversers$AncestorOrSelfTraverser.class (not open)
+  DTMDefaultBaseTraversers$AncestorTraverser.class (not open)
+  DTMDefaultBaseTraversers$AttributeTraverser.class (not open)
+  DTMDefaultBaseTraversers$ChildTraverser.class (not open)
+  DTMDefaultBaseTraversers$DescendantFromRootTraverser.class (not open)
+  DTMDefaultBaseTraversers$DescendantOrSelfFromRootTraverser.class (not open)
+  DTMDefaultBaseTraversers$DescendantOrSelfTraverser.class (not open)
+  DTMDefaultBaseTraversers$DescendantTraverser.class (not open)
+  DTMDefaultBaseTraversers$FollowingSiblingTraverser.class (not open)
+  DTMDefaultBaseTraversers$FollowingTraverser.class (not open)
+  DTMDefaultBaseTraversers$IndexedDTMAxisTraverser.class (not open)
+  DTMDefaultBaseTraversers$NamespaceDeclsTraverser.class (not open)
+  DTMDefaultBaseTraversers$NamespaceTraverser.class (not open)
+  DTMDefaultBaseTraversers$ParentTraverser.class (not open)
+  DTMDefaultBaseTraversers$PrecedingAndAncestorTraverser.class (not open)
+  DTMDefaultBaseTraversers$PrecedingSiblingTraverser.class (not open)
+  DTMDefaultBaseTraversers$PrecedingTraverser.class (not open)
+  DTMDefaultBaseTraversers$RootTraverser.class (not open)
+  DTMDefaultBaseTraversers$SelfTraverser.class (not open)
+  DTMDefaultBaseTraversers.class (not open)
+  DTMDocumentImpl.class (not open)
+  DTMManagerDefault.class (not open)
+  DTMNamedNodeMap$DTMException.class (not open)
+  DTMNamedNodeMap.class (not open)
+  DTMNodeIterator.class (not open)
+  DTMNodeList.class (not open)
+  DTMNodeListBase.class (not open)
+  DTMNodeProxy$DTMNodeProxyImplementation.class (not open)
+  DTMNodeProxy.class (not open)
+  DTMSafeStringPool.class (not open)
+  DTMStringPool.class (not open)
+  DTMTreeWalker.class (not open)
+  EmptyIterator.class (not open)
+  ExpandedNameTable$HashEntry.class (not open)
+  ExpandedNameTable.class (not open)
+  ExtendedType.class (not open)
+  IncrementalSAXSource.class (not open)
+  IncrementalSAXSource_Filter$StopException.class (not open)
+  IncrementalSAXSource_Filter.class (not open)
+  IncrementalSAXSource_Xerces.class (not open)
+  NodeLocator.class (not open)
+  ObjectFactory$ConfigurationError.class (not open)
+  ObjectFactory.class (not open)
+  SecuritySupport$1.class (not open)
+  SecuritySupport$2.class (not open)
+  SecuritySupport$3.class (not open)
+  SecuritySupport$4.class (not open)
+  SecuritySupport$5.class (not open)
+  SecuritySupport$6.class (not open)
+  SecuritySupport$7.class (not open)
+  SecuritySupport$8.class (not open)
+  SecuritySupport.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:28.999
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.eclipse.jdt.core [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:28.999
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.commons.codec.digest [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  B64.class (not open)
+  Crypt.class (not open)
+  DigestUtils.class (not open)
+  HmacAlgorithms.class (not open)
+  HmacUtils.class (not open)
+  Md5Crypt.class (not open)
+  MessageDigestAlgorithms.class (not open)
+  Sha2Crypt.class (not open)
+  UnixCrypt.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:28.999
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.hamcrest.core [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  AllOf.class (not open)
+  AnyOf.class (not open)
+  CombinableMatcher$CombinableBothMatcher.class (not open)
+  CombinableMatcher$CombinableEitherMatcher.class (not open)
+  CombinableMatcher.class (not open)
+  DescribedAs.class (not open)
+  Every.class (not open)
+  Is.class (not open)
+  IsAnything.class (not open)
+  IsCollectionContaining.class (not open)
+  IsEqual.class (not open)
+  IsInstanceOf.class (not open)
+  IsNot.class (not open)
+  IsNull.class (not open)
+  IsSame.class (not open)
+  ShortcutCombination.class (not open)
+  StringContains.class (not open)
+  StringEndsWith.class (not open)
+  StringStartsWith.class (not open)
+  SubstringMatcher.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:28.999
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.james.mime4j.descriptor [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  BodyDescriptor.class (not open)
+  ContentDescriptor.class (not open)
+  DefaultBodyDescriptor.class (not open)
+  MaximalBodyDescriptor.class (not open)
+  MutableBodyDescriptor.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:28.999
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.openqa.selenium.html5 [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  AppCacheStatus.class (not open)
+  ApplicationCache.class (not open)
+  LocalStorage.class (not open)
+  Location.class (not open)
+  LocationContext.class (not open)
+  SessionStorage.class (not open)
+  WebStorage.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:28.999
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.commons.collections.set [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  AbstractSerializableSetDecorator.class (not open)
+  AbstractSetDecorator.class (not open)
+  AbstractSortedSetDecorator.class (not open)
+  CompositeSet$SetMutator.class (not open)
+  CompositeSet.class (not open)
+  ListOrderedSet$1.class (not open)
+  ListOrderedSet$OrderedSetIterator.class (not open)
+  ListOrderedSet.class (not open)
+  MapBackedSet.class (not open)
+  PredicatedSet.class (not open)
+  PredicatedSortedSet.class (not open)
+  SynchronizedSet.class (not open)
+  SynchronizedSortedSet.class (not open)
+  TransformedSet.class (not open)
+  TransformedSortedSet.class (not open)
+  TypedSet.class (not open)
+  TypedSortedSet.class (not open)
+  UnmodifiableSet.class (not open)
+  UnmodifiableSortedSet.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:28.999
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:mx4j.tools.remote.http [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  HTTPClientInvoker.class (not open)
+  HTTPConnection.class (not open)
+  HTTPConnectionHandler.class (not open)
+  HTTPConnectionMBeanServerConnection.class (not open)
+  HTTPConnectionManager.class (not open)
+  HTTPConnector.class (not open)
+  HTTPConnectorServer.class (not open)
+  HTTPHeartBeat.class (not open)
+  HTTPRemoteNotificationClientHandler.class (not open)
+  HTTPResolver$1.class (not open)
+  HTTPResolver$ExternalWebContainer.class (not open)
+  HTTPResolver.class (not open)
+  HTTPServerInvoker.class (not open)
+  HTTPService.class (not open)
+  HTTPSubjectInvoker.class (not open)
+  WebContainer.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:28.999
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.bouncycastle.asn1.cmp [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  CAKeyUpdAnnContent.class (not open)
+  CMPCertificate.class (not open)
+  CMPObjectIdentifiers.class (not open)
+  CRLAnnContent.class (not open)
+  CertConfirmContent.class (not open)
+  CertOrEncCert.class (not open)
+  CertRepMessage.class (not open)
+  CertResponse.class (not open)
+  CertStatus.class (not open)
+  CertifiedKeyPair.class (not open)
+  Challenge.class (not open)
+  ErrorMsgContent.class (not open)
+  GenMsgContent.class (not open)
+  GenRepContent.class (not open)
+  InfoTypeAndValue.class (not open)
+  KeyRecRepContent.class (not open)
+  OOBCertHash.class (not open)
+  PBMParameter.class (not open)
+  PKIBody.class (not open)
+  PKIConfirmContent.class (not open)
+  PKIFailureInfo.class (not open)
+  PKIFreeText.class (not open)
+  PKIHeader.class (not open)
+  PKIHeaderBuilder.class (not open)
+  PKIMessage.class (not open)
+  PKIMessages.class (not open)
+  PKIStatus.class (not open)
+  PKIStatusInfo.class (not open)
+  POPODecKeyChallContent.class (not open)
+  POPODecKeyRespContent.class (not open)
+  PollRepContent.class (not open)
+  PollReqContent.class (not open)
+  ProtectedPart.class (not open)
+  RevAnnContent.class (not open)
+  RevDetails.class (not open)
+  RevRepContent.class (not open)
+  RevRepContentBuilder.class (not open)
+  RevReqContent.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:28.999
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.cyberneko [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:28.999
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.junit.runner.manipulation [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  Filter$1.class (not open)
+  Filter$2.class (not open)
+  Filter$3.class (not open)
+  Filter.class (not open)
+  Filterable.class (not open)
+  NoTestsRemainException.class (not open)
+  Sortable.class (not open)
+  Sorter$1.class (not open)
+  Sorter.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:28.999
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.bouncycastle.pqc.math [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:28.999
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.xerces.xpointer [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  ElementSchemePointer$1.class (not open)
+  ElementSchemePointer$Scanner.class (not open)
+  ElementSchemePointer$Tokens.class (not open)
+  ElementSchemePointer.class (not open)
+  ShortHandPointer.class (not open)
+  XPointerErrorHandler.class (not open)
+  XPointerHandler$1.class (not open)
+  XPointerHandler$Scanner.class (not open)
+  XPointerHandler$Tokens.class (not open)
+  XPointerHandler.class (not open)
+  XPointerMessageFormatter.class (not open)
+  XPointerPart.class (not open)
+  XPointerProcessor.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:28.999
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:mx4j.remote [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  AbstractHeartBeat.class (not open)
+  AbstractRemoteNotificationClientHandler$1.class (not open)
+  AbstractRemoteNotificationClientHandler$NotificationDelivererThread.class (not open)
+  AbstractRemoteNotificationClientHandler$NotificationFetcherThread.class (not open)
+  AbstractRemoteNotificationClientHandler.class (not open)
+  ClientProxy.class (not open)
+  ConnectionNotificationEmitter.class (not open)
+  ConnectionResolver.class (not open)
+  DefaultRemoteNotificationServerHandler$1.class (not open)
+  DefaultRemoteNotificationServerHandler$NotificationBuffer.class (not open)
+  DefaultRemoteNotificationServerHandler$ServerListener.class (not open)
+  DefaultRemoteNotificationServerHandler.class (not open)
+  HeartBeat.class (not open)
+  MX4JRemoteConstants.class (not open)
+  MX4JRemoteUtils$1.class (not open)
+  MX4JRemoteUtils$2.class (not open)
+  MX4JRemoteUtils$3.class (not open)
+  MX4JRemoteUtils$4.class (not open)
+  MX4JRemoteUtils$5.class (not open)
+  MX4JRemoteUtils$InjectingDomainCombiner$SubjectProtectionDomain.class (not open)
+  MX4JRemoteUtils$InjectingDomainCombiner.class (not open)
+  MX4JRemoteUtils.class (not open)
+  NotificationTuple$1.class (not open)
+  NotificationTuple$2.class (not open)
+  NotificationTuple.class (not open)
+  ProviderFactory$1.class (not open)
+  ProviderFactory.class (not open)
+  ProviderHelper$1.class (not open)
+  ProviderHelper.class (not open)
+  RemoteNotificationClientHandler.class (not open)
+  RemoteNotificationServerHandler.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:28.999
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.yaml.snakeyaml.parser [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  Parser.class (not open)
+  ParserException.class (not open)
+  ParserImpl$1.class (not open)
+  ParserImpl$ParseBlockMappingFirstKey.class (not open)
+  ParserImpl$ParseBlockMappingKey.class (not open)
+  ParserImpl$ParseBlockMappingValue.class (not open)
+  ParserImpl$ParseBlockNode.class (not open)
+  ParserImpl$ParseBlockSequenceEntry.class (not open)
+  ParserImpl$ParseBlockSequenceFirstEntry.class (not open)
+  ParserImpl$ParseDocumentContent.class (not open)
+  ParserImpl$ParseDocumentEnd.class (not open)
+  ParserImpl$ParseDocumentStart.class (not open)
+  ParserImpl$ParseFlowMappingEmptyValue.class (not open)
+  ParserImpl$ParseFlowMappingFirstKey.class (not open)
+  ParserImpl$ParseFlowMappingKey.class (not open)
+  ParserImpl$ParseFlowMappingValue.class (not open)
+  ParserImpl$ParseFlowSequenceEntry.class (not open)
+  ParserImpl$ParseFlowSequenceEntryMappingEnd.class (not open)
+  ParserImpl$ParseFlowSequenceEntryMappingKey.class (not open)
+  ParserImpl$ParseFlowSequenceEntryMappingValue.class (not open)
+  ParserImpl$ParseFlowSequenceFirstEntry.class (not open)
+  ParserImpl$ParseImplicitDocumentStart.class (not open)
+  ParserImpl$ParseIndentlessSequenceEntry.class (not open)
+  ParserImpl$ParseStreamStart.class (not open)
+  ParserImpl.class (not open)
+  Production.class (not open)
+  VersionTagsTuple.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:28.999
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.jboss.netty.handler.codec.replay [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  ReplayError.class (not open)
+  ReplayingDecoder.class (not open)
+  ReplayingDecoderBuffer.class (not open)
+  UnreplayableOperationException.class (not open)
+  UnsafeDynamicChannelBuffer.class (not open)
+  VoidEnum.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:28.999
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:bsh.org [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:28.999
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.eclipse.jdt.core.compiler [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  CharOperation.class (not open)
+  IProblem.class (not open)
+  IScanner.class (not open)
+  ITerminalSymbols.class (not open)
+  InvalidInputException.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:28.999
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.commons.codec.language.bm [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  BeiderMorseEncoder.class (not open)
+  Lang$1.class (not open)
+  Lang$LangRule.class (not open)
+  Lang.class (not open)
+  Languages$1.class (not open)
+  Languages$2.class (not open)
+  Languages$LanguageSet.class (not open)
+  Languages$SomeLanguages.class (not open)
+  Languages.class (not open)
+  NameType.class (not open)
+  PhoneticEngine$1.class (not open)
+  PhoneticEngine$PhonemeBuilder.class (not open)
+  PhoneticEngine$RulesApplication.class (not open)
+  PhoneticEngine.class (not open)
+  ResourceConstants.class (not open)
+  Rule$1.class (not open)
+  Rule$10.class (not open)
+  Rule$2.class (not open)
+  Rule$3.class (not open)
+  Rule$4.class (not open)
+  Rule$5.class (not open)
+  Rule$6.class (not open)
+  Rule$7.class (not open)
+  Rule$8.class (not open)
+  Rule$9.class (not open)
+  Rule$Phoneme$1.class (not open)
+  Rule$Phoneme.class (not open)
+  Rule$PhonemeExpr.class (not open)
+  Rule$PhonemeList.class (not open)
+  Rule$RPattern.class (not open)
+  Rule.class (not open)
+  RuleType.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:28.999
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.bouncycastle.crypto.signers [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  DSADigestSigner.class (not open)
+  DSASigner.class (not open)
+  DSTU4145Signer.class (not open)
+  ECDSASigner.class (not open)
+  ECGOST3410Signer.class (not open)
+  ECNRSigner.class (not open)
+  GOST3410Signer.class (not open)
+  GenericSigner.class (not open)
+  ISO9796d2PSSSigner.class (not open)
+  ISO9796d2Signer.class (not open)
+  PSSSigner.class (not open)
+  RSADigestSigner.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:28.999
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.xalan.xsltc.dom [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  AbsoluteIterator.class (not open)
+  AdaptiveResultTreeImpl.class (not open)
+  AnyNodeCounter$DefaultAnyNodeCounter.class (not open)
+  AnyNodeCounter.class (not open)
+  ArrayNodeListIterator.class (not open)
+  BitArray.class (not open)
+  CachedNodeListIterator.class (not open)
+  ClonedNodeListIterator.class (not open)
+  CollatorFactoryBase.class (not open)
+  CurrentNodeListFilter.class (not open)
+  CurrentNodeListIterator.class (not open)
+  DOMAdapter.class (not open)
+  DOMBuilder.class (not open)
+  DOMWSFilter.class (not open)
+  DocumentCache$CachedDocument.class (not open)
+  DocumentCache.class (not open)
+  DupFilterIterator.class (not open)
+  EmptyFilter.class (not open)
+  ExtendedSAX.class (not open)
+  Filter.class (not open)
+  FilterIterator.class (not open)
+  FilteredStepIterator.class (not open)
+  ForwardPositionIterator.class (not open)
+  KeyIndex$KeyIndexIterator$KeyIndexHeapNode.class (not open)
+  KeyIndex$KeyIndexIterator.class (not open)
+  KeyIndex.class (not open)
+  LoadDocument.class (not open)
+  MatchingIterator.class (not open)
+  MultiDOM$AxisIterator.class (not open)
+  MultiDOM$NodeValueIterator.class (not open)
+  MultiDOM.class (not open)
+  MultiValuedNodeHeapIterator$HeapNode.class (not open)
+  MultiValuedNodeHeapIterator.class (not open)
+  MultipleNodeCounter$DefaultMultipleNodeCounter.class (not open)
+  MultipleNodeCounter.class (not open)
+  NodeCounter.class (not open)
+  NodeIteratorBase.class (not open)
+  NodeSortRecord.class (not open)
+  NodeSortRecordFactory.class (not open)
+  NthIterator.class (not open)
+  ObjectFactory$ConfigurationError.class (not open)
+  ObjectFactory.class (not open)
+  SAXImpl$NamespaceAttributeIterator.class (not open)
+  SAXImpl$NamespaceChildrenIterator.class (not open)
+  SAXImpl$NamespaceWildcardIterator.class (not open)
+  SAXImpl$NodeValueIterator.class (not open)
+  SAXImpl$TypedNamespaceIterator.class (not open)
+  SAXImpl.class (not open)
+  SecuritySupport$1.class (not open)
+  SecuritySupport$2.class (not open)
+  SecuritySupport$3.class (not open)
+  SecuritySupport$4.class (not open)
+  SecuritySupport$5.class (not open)
+  SecuritySupport$6.class (not open)
+  SecuritySupport$7.class (not open)
+  SecuritySupport$8.class (not open)
+  SecuritySupport.class (not open)
+  SimpleResultTreeImpl$1.class (not open)
+  SimpleResultTreeImpl$SimpleIterator.class (not open)
+  SimpleResultTreeImpl$SingletonIterator.class (not open)
+  SimpleResultTreeImpl.class (not open)
+  SingleNodeCounter$DefaultSingleNodeCounter.class (not open)
+  SingleNodeCounter.class (not open)
+  SingletonIterator.class (not open)
+  SortSettings.class (not open)
+  SortingIterator.class (not open)
+  StepIterator.class (not open)
+  StripWhitespaceFilter.class (not open)
+  UnionIterator$LookAheadIterator.class (not open)
+  UnionIterator.class (not open)
+  XSLTCDTMManager.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:28.999
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.xerces.impl.dtd [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  BalancedDTDGrammar.class (not open)
+  DTDGrammar$ChildrenList.class (not open)
+  DTDGrammar$QNameHashtable.class (not open)
+  DTDGrammar.class (not open)
+  DTDGrammarBucket.class (not open)
+  XML11DTDProcessor.class (not open)
+  XML11DTDValidator.class (not open)
+  XML11NSDTDValidator.class (not open)
+  XMLAttributeDecl.class (not open)
+  XMLContentSpec$Provider.class (not open)
+  XMLContentSpec.class (not open)
+  XMLDTDDescription.class (not open)
+  XMLDTDLoader.class (not open)
+  XMLDTDProcessor.class (not open)
+  XMLDTDValidator.class (not open)
+  XMLDTDValidatorFilter.class (not open)
+  XMLElementDecl.class (not open)
+  XMLEntityDecl.class (not open)
+  XMLNSDTDValidator.class (not open)
+  XMLNotationDecl.class (not open)
+  XMLSimpleType.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:28.999
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.seleniumhq.jetty9.util.log.jmx [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  LogMBean.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:28.999
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:com.google.common.annotations [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  Beta.class (not open)
+  GwtCompatible.class (not open)
+  GwtIncompatible.class (not open)
+  VisibleForTesting.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:28.999
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.yaml.snakeyaml.composer [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  Composer.class (not open)
+  ComposerException.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:28.999
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.yaml.snakeyaml [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  DumperOptions$FlowStyle.class (not open)
+  DumperOptions$LineBreak.class (not open)
+  DumperOptions$ScalarStyle.class (not open)
+  DumperOptions$Version.class (not open)
+  DumperOptions.class (not open)
+  TypeDescription.class (not open)
+  Yaml$1.class (not open)
+  Yaml$2.class (not open)
+  Yaml$3.class (not open)
+  Yaml$EventIterable.class (not open)
+  Yaml$NodeIterable.class (not open)
+  Yaml$SilentEmitter.class (not open)
+  Yaml$YamlIterable.class (not open)
+  Yaml.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:28.999
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:com.sun.jna.platform.win32.COM.tlb [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  TlbImp.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:28.999
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.bouncycastle.jcajce.provider.asymmetric.dh [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  AlgorithmParameterGeneratorSpi.class (not open)
+  AlgorithmParametersSpi.class (not open)
+  BCDHPrivateKey.class (not open)
+  BCDHPublicKey.class (not open)
+  DHUtil.class (not open)
+  IESCipher$1.class (not open)
+  IESCipher$IES.class (not open)
+  IESCipher$IESwithAES.class (not open)
+  IESCipher$IESwithDESede.class (not open)
+  IESCipher.class (not open)
+  KeyAgreementSpi.class (not open)
+  KeyFactorySpi.class (not open)
+  KeyPairGeneratorSpi.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:28.999
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.bouncycastle.asn1.iana [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  IANAObjectIdentifiers.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:28.999
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.bouncycastle.voms [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  VOMSAttribute$FQAN.class (not open)
+  VOMSAttribute.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:28.999
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.eclipse.jetty.util [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  AbstractTrie.class (not open)
+  ArrayQueue.class (not open)
+  ArrayTernaryTrie.class (not open)
+  ArrayTrie.class (not open)
+  ArrayUtil.class (not open)
+  Atomics.class (not open)
+  Attributes.class (not open)
+  AttributesMap.class (not open)
+  B64Code.class (not open)
+  BlockingArrayQueue$Itr.class (not open)
+  BlockingArrayQueue.class (not open)
+  BlockingCallback$1.class (not open)
+  BlockingCallback$2.class (not open)
+  BlockingCallback.class (not open)
+  BufferUtil.class (not open)
+  ByteArrayISO8859Writer.class (not open)
+  ByteArrayOutputStream2.class (not open)
+  Callback$Adapter.class (not open)
+  Callback.class (not open)
+  ClassLoadingObjectInputStream.class (not open)
+  CompletableCallback$1.class (not open)
+  CompletableCallback$State.class (not open)
+  CompletableCallback.class (not open)
+  ConcurrentArrayQueue$1.class (not open)
+  ConcurrentArrayQueue$2.class (not open)
+  ConcurrentArrayQueue$Block.class (not open)
+  ConcurrentArrayQueue.class (not open)
+  ConcurrentHashSet.class (not open)
+  CountingCallback.class (not open)
+  DateCache$Tick.class (not open)
+  DateCache.class (not open)
+  Fields$1.class (not open)
+  Fields$Field.class (not open)
+  Fields.class (not open)
+  FutureCallback.class (not open)
+  FuturePromise.class (not open)
+  HostMap.class (not open)
+  HttpCookieStore$Empty.class (not open)
+  HttpCookieStore.class (not open)
+  IO$1.class (not open)
+  IO$ClosedIS.class (not open)
+  IO$Job.class (not open)
+  IO$NullOS.class (not open)
+  IO$NullWrite.class (not open)
+  IO.class (not open)
+  IPAddressMap$IPAddrPattern.class (not open)
+  IPAddressMap$OctetPattern.class (not open)
+  IPAddressMap.class (not open)
+  IntrospectionUtil.class (not open)
+  IteratingCallback$1.class (not open)
+  IteratingCallback$Action.class (not open)
+  IteratingCallback$State.class (not open)
+  IteratingCallback.class (not open)
+  IteratingNestedCallback.class (not open)
+  Jetty.class (not open)
+  LazyList.class (not open)
+  LeakDetector$1.class (not open)
+  LeakDetector$LeakInfo.class (not open)
+  LeakDetector.class (not open)
+  Loader.class (not open)
+  MemoryUtils$1.class (not open)
+  MemoryUtils.class (not open)
+  MultiException.class (not open)
+  MultiMap$1.class (not open)
+  MultiMap.class (not open)
+  MultiPartInputStreamParser$1.class (not open)
+  MultiPartInputStreamParser$Base64InputStream.class (not open)
+  MultiPartInputStreamParser$MultiPart.class (not open)
+  MultiPartInputStreamParser.class (not open)
+  MultiPartOutputStream.class (not open)
+  MultiPartWriter.class (not open)
+  PatternMatcher.class (not open)
+  Promise$Adapter.class (not open)
+  Promise.class (not open)
+  QuotedStringTokenizer.class (not open)
+  ReadLineInputStream.class (not open)
+  RolloverFileOutputStream$1.class (not open)
+  RolloverFileOutputStream$RollTask.class (not open)
+  RolloverFileOutputStream.class (not open)
+  Scanner$1.class (not open)
+  Scanner$2.class (not open)
+  Scanner$BulkListener.class (not open)
+  Scanner$DiscreteListener.class (not open)
+  Scanner$Listener.class (not open)
+  Scanner$Notification.class (not open)
+  Scanner$ScanCycleListener.class (not open)
+  Scanner$ScanListener.class (not open)
+  Scanner$TimeNSize.class (not open)
+  Scanner.class (not open)
+  SharedBlockingCallback$1.class (not open)
+  SharedBlockingCallback$2.class (not open)
+  SharedBlockingCallback$3.class (not open)
+  SharedBlockingCallback$Blocker.class (not open)
+  SharedBlockingCallback$BlockerTimeoutException.class (not open)
+  SharedBlockingCallback.class (not open)
+  SocketAddressResolver$1$1.class (not open)
+  SocketAddressResolver$1.class (not open)
+  SocketAddressResolver.class (not open)
+  StringUtil.class (not open)
+  TreeTrie.class (not open)
+  Trie.class (not open)
+  TypeUtil.class (not open)
+  URIUtil.class (not open)
+  Uptime$DefaultImpl.class (not open)
+  Uptime$Impl.class (not open)
+  Uptime.class (not open)
+  UrlEncoded.class (not open)
+  Utf8Appendable$NotUtf8Exception.class (not open)
+  Utf8Appendable.class (not open)
+  Utf8LineParser$1.class (not open)
+  Utf8LineParser$State.class (not open)
+  Utf8LineParser.class (not open)
+  Utf8StringBuffer.class (not open)
+  Utf8StringBuilder.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:28.999
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.openqa.grid.selenium [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  GridLauncher$1.class (not open)
+  GridLauncher$2.class (not open)
+  GridLauncher$3.class (not open)
+  GridLauncher$GridItemLauncher.class (not open)
+  GridLauncher.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:28.999
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.eclipse [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:28.999
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.bcel.util [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  AttributeHTML.class (not open)
+  ByteSequence$ByteArrayStream.class (not open)
+  ByteSequence.class (not open)
+  Class2HTML.class (not open)
+  ClassLoader.class (not open)
+  ClassPath$1.class (not open)
+  ClassPath$2.class (not open)
+  ClassPath$3.class (not open)
+  ClassPath$ClassFile.class (not open)
+  ClassPath$Dir.class (not open)
+  ClassPath$PathEntry.class (not open)
+  ClassPath$Zip.class (not open)
+  ClassPath.class (not open)
+  ClassQueue.class (not open)
+  ClassStack.class (not open)
+  ClassVector.class (not open)
+  CodeHTML.class (not open)
+  ConstantHTML.class (not open)
+  InstructionFinder$CodeConstraint.class (not open)
+  InstructionFinder.class (not open)
+  JavaWrapper.class (not open)
+  MethodHTML.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:28.999
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:mx4j.tools.remote [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  AbstractConnection.class (not open)
+  AbstractConnectionManager.class (not open)
+  AbstractJMXConnector.class (not open)
+  AbstractJMXConnectorServer.class (not open)
+  AbstractServerInvoker.class (not open)
+  Connection.class (not open)
+  ConnectionManager.class (not open)
+  JMXConnection.class (not open)
+  JMXConnectionHandler.class (not open)
+  JMXConnectionMBeanServerConnection.class (not open)
+  PasswordAuthenticator.class (not open)
+  SubjectInvoker$1.class (not open)
+  SubjectInvoker.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:28.999
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:mx4j.tools.remote.resolver.local [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  Resolver.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:29.014
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.junit.internal.runners.statements [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  ExpectException.class (not open)
+  Fail.class (not open)
+  FailOnTimeout$1.class (not open)
+  FailOnTimeout$Builder.class (not open)
+  FailOnTimeout$CallableStatement.class (not open)
+  FailOnTimeout.class (not open)
+  InvokeMethod.class (not open)
+  RunAfters.class (not open)
+  RunBefores.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:29.014
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.openqa.jetty.stop [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  Main.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:29.014
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.seleniumhq.jetty9.io.ssl [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  SslClientConnectionFactory.class (not open)
+  SslConnection$1.class (not open)
+  SslConnection$2.class (not open)
+  SslConnection$DecryptedEndPoint$1$1.class (not open)
+  SslConnection$DecryptedEndPoint$1.class (not open)
+  SslConnection$DecryptedEndPoint.class (not open)
+  SslConnection.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:29.014
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:mx4j.tools.remote.provider.local [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  ClientProvider.class (not open)
+  ServerProvider.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:29.014
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:com.gargoylesoftware.htmlunit.javascript [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  DebugFrameAdapter.class (not open)
+  DebugFrameImpl.class (not open)
+  DebuggerAdapter.class (not open)
+  DebuggerImpl.class (not open)
+  FunctionWrapper.class (not open)
+  HiddenFunctionObject.class (not open)
+  HtmlUnitContextFactory$TimeoutContext.class (not open)
+  HtmlUnitContextFactory.class
+    class HtmlUnitContextFactory
+  HtmlUnitWrapFactory.class
+    class HtmlUnitWrapFactory
+  IEConditionalCompilationScriptPreProcessor$ParsingStatus.class (not open)
+  IEConditionalCompilationScriptPreProcessor.class (not open)
+  IEWeirdSyntaxScriptPreProcessor.class (not open)
+  JavaScriptEngine$1.class (not open)
+  JavaScriptEngine$2.class (not open)
+  JavaScriptEngine$3.class (not open)
+  JavaScriptEngine$4.class (not open)
+  JavaScriptEngine$FallbackCaller.class (not open)
+  JavaScriptEngine$HtmlUnitContextAction.class (not open)
+  JavaScriptEngine.class (not open)
+  JavaScriptErrorListener.class (not open)
+  MethodWrapper.class (not open)
+  NamedNodeMap.class (not open)
+  NativeFunctionToStringFunction$NativeFunctionToStringFunctionChrome.class (not open)
+  NativeFunctionToStringFunction.class (not open)
+  PostponedAction.class (not open)
+  RecursiveFunctionObject.class (not open)
+  ScriptableWithFallbackGetter.class (not open)
+  ScriptableWrapper.class (not open)
+  SimpleScriptable$1.class (not open)
+  SimpleScriptable$2.class (not open)
+  SimpleScriptable.class (not open)
+  SimpleScriptableProxy.class (not open)
+  StrictErrorHandler.class (not open)
+  StrictErrorReporter.class (not open)
+  TimeoutError.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:29.014
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.xerces.dom3.as [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  ASAttributeDeclaration.class (not open)
+  ASContentModel.class (not open)
+  ASDataType.class (not open)
+  ASElementDeclaration.class (not open)
+  ASEntityDeclaration.class (not open)
+  ASModel.class (not open)
+  ASNamedObjectMap.class (not open)
+  ASNotationDeclaration.class (not open)
+  ASObject.class (not open)
+  ASObjectList.class (not open)
+  CharacterDataEditAS.class (not open)
+  DOMASBuilder.class (not open)
+  DOMASException.class (not open)
+  DOMASWriter.class (not open)
+  DOMImplementationAS.class (not open)
+  DocumentAS.class (not open)
+  DocumentEditAS.class (not open)
+  ElementEditAS.class (not open)
+  NodeEditAS.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:29.014
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.xerces.impl.dv [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  DTDDVFactory.class (not open)
+  DVFactoryException.class (not open)
+  DatatypeException.class (not open)
+  DatatypeValidator.class (not open)
+  InvalidDatatypeFacetException.class (not open)
+  InvalidDatatypeValueException.class (not open)
+  ObjectFactory$ConfigurationError.class (not open)
+  ObjectFactory.class (not open)
+  SchemaDVFactory.class (not open)
+  SecuritySupport$1.class (not open)
+  SecuritySupport$2.class (not open)
+  SecuritySupport$3.class (not open)
+  SecuritySupport$4.class (not open)
+  SecuritySupport$5.class (not open)
+  SecuritySupport$6.class (not open)
+  SecuritySupport$7.class (not open)
+  SecuritySupport$8.class (not open)
+  SecuritySupport.class (not open)
+  ValidatedInfo.class (not open)
+  ValidationContext.class (not open)
+  XSFacets.class (not open)
+  XSSimpleType.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:29.014
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.jboss.netty.logging [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  AbstractInternalLogger$1.class (not open)
+  AbstractInternalLogger.class (not open)
+  CommonsLogger.class (not open)
+  CommonsLoggerFactory.class (not open)
+  InternalLogLevel.class (not open)
+  InternalLogger.class (not open)
+  InternalLoggerFactory$1.class (not open)
+  InternalLoggerFactory.class (not open)
+  JBossLogger.class (not open)
+  JBossLoggerFactory.class (not open)
+  JdkLogger.class (not open)
+  JdkLoggerFactory.class (not open)
+  Log4JLogger.class (not open)
+  Log4JLoggerFactory.class (not open)
+  OsgiLogger.class (not open)
+  OsgiLoggerFactory$1.class (not open)
+  OsgiLoggerFactory.class (not open)
+  Slf4JLogger.class (not open)
+  Slf4JLoggerFactory.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:29.014
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.bouncycastle.cert.bc [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  BcX509ExtensionUtils$1.class (not open)
+  BcX509ExtensionUtils$SHA1DigestCalculator.class (not open)
+  BcX509ExtensionUtils.class (not open)
+  BcX509v1CertificateBuilder.class (not open)
+  BcX509v3CertificateBuilder.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:29.014
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.jasper.resources [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:29.014
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:net.sourceforge.htmlunit.corejs.javascript.tools [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  SourceReader.class (not open)
+  ToolErrorReporter.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:29.014
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.bouncycastle.jce [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  ECGOST3410NamedCurveTable.class (not open)
+  ECKeyUtil$UnexpectedException.class (not open)
+  ECKeyUtil.class (not open)
+  ECNamedCurveTable.class (not open)
+  ECPointUtil.class (not open)
+  MultiCertStoreParameters.class (not open)
+  PKCS10CertificationRequest.class (not open)
+  PKCS12Util.class (not open)
+  PrincipalUtil.class (not open)
+  X509KeyUsage.class (not open)
+  X509LDAPCertStoreParameters$1.class (not open)
+  X509LDAPCertStoreParameters$Builder.class (not open)
+  X509LDAPCertStoreParameters.class (not open)
+  X509Principal.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:29.014
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.eclipse.jetty.server.session [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  AbstractSession.class (not open)
+  AbstractSessionIdManager.class (not open)
+  AbstractSessionManager$1.class (not open)
+  AbstractSessionManager$CookieConfig.class (not open)
+  AbstractSessionManager$SessionIf.class (not open)
+  AbstractSessionManager.class (not open)
+  HashSessionIdManager.class (not open)
+  HashSessionManager$Saver.class (not open)
+  HashSessionManager$Scavenger.class (not open)
+  HashSessionManager.class (not open)
+  HashedSession.class (not open)
+  JDBCSessionIdManager$DatabaseAdaptor.class (not open)
+  JDBCSessionIdManager$Scavenger.class (not open)
+  JDBCSessionIdManager$SessionIdTableSchema.class (not open)
+  JDBCSessionIdManager$SessionTableSchema.class (not open)
+  JDBCSessionIdManager.class (not open)
+  JDBCSessionManager$1.class (not open)
+  JDBCSessionManager$Session.class (not open)
+  JDBCSessionManager.class (not open)
+  MemSession.class (not open)
+  SessionHandler.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:29.014
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.yaml.snakeyaml.scanner [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  Constant.class (not open)
+  Scanner.class (not open)
+  ScannerException.class (not open)
+  ScannerImpl$Chomping.class (not open)
+  ScannerImpl.class (not open)
+  SimpleKey.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:29.014
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:net.sf.cglib.proxy [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  Callback.class (not open)
+  CallbackFilter.class (not open)
+  CallbackGenerator$Context.class (not open)
+  CallbackGenerator.class (not open)
+  CallbackHelper.class (not open)
+  CallbackInfo.class (not open)
+  Dispatcher.class (not open)
+  DispatcherGenerator.class (not open)
+  Enhancer$1.class (not open)
+  Enhancer$2.class (not open)
+  Enhancer$3.class (not open)
+  Enhancer$4.class (not open)
+  Enhancer$5.class (not open)
+  Enhancer$6.class (not open)
+  Enhancer$EnhancerKey.class (not open)
+  Enhancer.class (not open)
+  Factory.class (not open)
+  FixedValue.class (not open)
+  FixedValueGenerator.class (not open)
+  InterfaceMaker.class (not open)
+  InvocationHandler.class (not open)
+  InvocationHandlerGenerator.class (not open)
+  LazyLoader.class (not open)
+  LazyLoaderGenerator.class (not open)
+  MethodInterceptor.class (not open)
+  MethodInterceptorGenerator$1.class (not open)
+  MethodInterceptorGenerator.class (not open)
+  MethodProxy$1.class (not open)
+  MethodProxy.class (not open)
+  Mixin$Generator.class (not open)
+  Mixin$MixinKey.class (not open)
+  Mixin$Route.class (not open)
+  Mixin.class (not open)
+  MixinBeanEmitter.class (not open)
+  MixinEmitter.class (not open)
+  MixinEverythingEmitter.class (not open)
+  NoOp$1.class (not open)
+  NoOp.class (not open)
+  NoOpGenerator.class (not open)
+  Proxy$1.class (not open)
+  Proxy$ProxyImpl.class (not open)
+  Proxy.class (not open)
+  ProxyRefDispatcher.class (not open)
+  UndeclaredThrowableException.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:29.014
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.james.mime4j.field.mimeversion [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:29.014
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.bouncycastle.cms.bc [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  BcCMSContentEncryptorBuilder$CMSOutputEncryptor.class (not open)
+  BcCMSContentEncryptorBuilder.class (not open)
+  BcKEKEnvelopedRecipient$1.class (not open)
+  BcKEKEnvelopedRecipient.class (not open)
+  BcKEKRecipient.class (not open)
+  BcKEKRecipientInfoGenerator.class (not open)
+  BcKeyTransRecipient.class (not open)
+  BcKeyTransRecipientInfoGenerator.class (not open)
+  BcPasswordEnvelopedRecipient$1.class (not open)
+  BcPasswordEnvelopedRecipient.class (not open)
+  BcPasswordRecipient.class (not open)
+  BcPasswordRecipientInfoGenerator.class (not open)
+  BcRSAKeyTransEnvelopedRecipient$1.class (not open)
+  BcRSAKeyTransEnvelopedRecipient.class (not open)
+  BcRSAKeyTransRecipientInfoGenerator.class (not open)
+  BcRSASignerInfoVerifierBuilder.class (not open)
+  CMSUtils.class (not open)
+  EnvelopedDataHelper.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:29.014
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:mx4j.tools.remote.local [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  LocalConnection.class (not open)
+  LocalConnectionHandler.class (not open)
+  LocalConnectionMBeanServerConnection.class (not open)
+  LocalConnectionManager.class (not open)
+  LocalConnector.class (not open)
+  LocalConnectorServer.class (not open)
+  LocalServerInvoker.class (not open)
+  LocalSubjectInvoker.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:29.014
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.junit.internal.runners.rules [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  RuleMemberValidator$1.class (not open)
+  RuleMemberValidator$Builder.class (not open)
+  RuleMemberValidator$DeclaringClassMustBePublic.class (not open)
+  RuleMemberValidator$FieldMustBeARule.class (not open)
+  RuleMemberValidator$FieldMustBeATestRule.class (not open)
+  RuleMemberValidator$MemberMustBeNonStaticOrAlsoClassRule.class (not open)
+  RuleMemberValidator$MemberMustBePublic.class (not open)
+  RuleMemberValidator$MemberMustBeStatic.class (not open)
+  RuleMemberValidator$MethodMustBeARule.class (not open)
+  RuleMemberValidator$MethodMustBeATestRule.class (not open)
+  RuleMemberValidator$RuleValidator.class (not open)
+  RuleMemberValidator.class (not open)
+  ValidationError.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:29.014
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:com.gargoylesoftware.htmlunit.javascript.host.media.midi [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  MIDIAccess.class (not open)
+  MIDIInput.class (not open)
+  MIDIInputMap.class (not open)
+  MIDIOutput.class (not open)
+  MIDIOutputMap.class (not open)
+  MIDIPort.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:29.014
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.commons.lang3.math [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  Fraction.class (not open)
+  IEEE754rUtils.class (not open)
+  NumberUtils.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:29.014
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:com.gargoylesoftware.htmlunit.javascript.host.crypto [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  Crypto.class (not open)
+  CryptoKey.class (not open)
+  SubtleCrypto.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:29.014
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.openqa.selenium.remote.html5 [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  AddApplicationCache$1.class (not open)
+  AddApplicationCache.class (not open)
+  AddLocationContext$1.class (not open)
+  AddLocationContext.class (not open)
+  AddWebStorage$1.class (not open)
+  AddWebStorage.class (not open)
+  RemoteApplicationCache.class (not open)
+  RemoteLocalStorage.class (not open)
+  RemoteLocationContext.class (not open)
+  RemoteSessionStorage.class (not open)
+  RemoteWebStorage.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:29.014
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.w3c.dom [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  Attr.class (not open)
+  CDATASection.class (not open)
+  CharacterData.class (not open)
+  Comment.class (not open)
+  DOMConfiguration.class (not open)
+  DOMError.class (not open)
+  DOMErrorHandler.class (not open)
+  DOMException.class (not open)
+  DOMImplementation.class (not open)
+  DOMImplementationList.class (not open)
+  DOMImplementationSource.class (not open)
+  DOMLocator.class (not open)
+  DOMStringList.class (not open)
+  Document.class (not open)
+  DocumentFragment.class (not open)
+  DocumentType.class (not open)
+  Element.class (not open)
+  ElementTraversal.class (not open)
+  Entity.class (not open)
+  EntityReference.class (not open)
+  NameList.class (not open)
+  NamedNodeMap.class (not open)
+  Node.class (not open)
+  NodeList.class (not open)
+  Notation.class (not open)
+  ProcessingInstruction.class (not open)
+  Text.class (not open)
+  TypeInfo.class (not open)
+  UserDataHandler.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:29.014
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.seleniumhq.jetty9.server.handler.jmx [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  AbstractHandlerMBean.class (not open)
+  ContextHandlerMBean.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:29.014
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:mx4j.tools.stats [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  AbstractStatisticsRecorder.class (not open)
+  NotificationStatisticsRecorder.class (not open)
+  ObserverStatisticsRecorder.class (not open)
+  ObserverStatisticsRecorderMBean.class (not open)
+  ObserverStatisticsRecorderMBeanDescription.class (not open)
+  PointTime.class (not open)
+  StatisticsRecorderMBean.class (not open)
+  StatisticsRecorderMBeanDescription.class (not open)
+  TimedStatisticsRecorder$1.class (not open)
+  TimedStatisticsRecorder$CollectTask.class (not open)
+  TimedStatisticsRecorder.class (not open)
+  TimedStatisticsRecorderMBean.class (not open)
+  TimedStatisticsRecorderMBeanDescription.class (not open)
+  ValueStatisticsRecorder.class (not open)
+  ValueStatisticsRecorderMBean.class (not open)
+  ValueStatisticsRecorderMBeanDescription.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:29.014
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.james.mime4j.field.datetime.parser [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  DateTimeParser$Date.class (not open)
+  DateTimeParser$Time.class (not open)
+  DateTimeParser.class (not open)
+  DateTimeParserConstants.class (not open)
+  DateTimeParserTokenManager.class (not open)
+  ParseException.class (not open)
+  SimpleCharStream.class (not open)
+  Token.class (not open)
+  TokenMgrError.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:29.014
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:mx4j.tools.remote.http.jetty [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  JettyWebContainer.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:29.014
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:com.google.common.base [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  Absent.class (not open)
+  AbstractIterator$1.class (not open)
+  AbstractIterator$State.class (not open)
+  AbstractIterator.class (not open)
+  Ascii.class (not open)
+  CaseFormat$1.class (not open)
+  CaseFormat$2.class (not open)
+  CaseFormat$3.class (not open)
+  CaseFormat$4.class (not open)
+  CaseFormat$5.class (not open)
+  CaseFormat$StringConverter.class (not open)
+  CaseFormat.class (not open)
+  CharMatcher$1.class (not open)
+  CharMatcher$And.class (not open)
+  CharMatcher$Any.class (not open)
+  CharMatcher$AnyOf.class (not open)
+  CharMatcher$Ascii.class (not open)
+  CharMatcher$BitSetMatcher.class (not open)
+  CharMatcher$BreakingWhitespace.class (not open)
+  CharMatcher$Digit.class (not open)
+  CharMatcher$FastMatcher.class (not open)
+  CharMatcher$ForPredicate.class (not open)
+  CharMatcher$InRange.class (not open)
+  CharMatcher$Invisible.class (not open)
+  CharMatcher$Is.class (not open)
+  CharMatcher$IsEither.class (not open)
+  CharMatcher$IsNot.class (not open)
+  CharMatcher$JavaDigit.class (not open)
+  CharMatcher$JavaIsoControl.class (not open)
+  CharMatcher$JavaLetter.class (not open)
+  CharMatcher$JavaLetterOrDigit.class (not open)
+  CharMatcher$JavaLowerCase.class (not open)
+  CharMatcher$JavaUpperCase.class (not open)
+  CharMatcher$NamedFastMatcher.class (not open)
+  CharMatcher$Negated.class (not open)
+  CharMatcher$NegatedFastMatcher.class (not open)
+  CharMatcher$None.class (not open)
+  CharMatcher$Or.class (not open)
+  CharMatcher$RangesMatcher.class (not open)
+  CharMatcher$SingleWidth.class (not open)
+  CharMatcher$Whitespace.class (not open)
+  CharMatcher.class (not open)
+  Charsets.class (not open)
+  Converter$1$1.class (not open)
+  Converter$1.class (not open)
+  Converter$ConverterComposition.class (not open)
+  Converter$FunctionBasedConverter.class (not open)
+  Converter$IdentityConverter.class (not open)
+  Converter$ReverseConverter.class (not open)
+  Converter.class (not open)
+  Defaults.class (not open)
+  Enums$StringConverter.class (not open)
+  Enums.class (not open)
+  Equivalence$1.class (not open)
+  Equivalence$Equals.class (not open)
+  Equivalence$EquivalentToPredicate.class (not open)
+  Equivalence$Identity.class (not open)
+  Equivalence$Wrapper.class (not open)
+  Equivalence.class (not open)
+  FinalizablePhantomReference.class (not open)
+  FinalizableReference.class (not open)
+  FinalizableReferenceQueue$DecoupledLoader.class (not open)
+  FinalizableReferenceQueue$DirectLoader.class (not open)
+  FinalizableReferenceQueue$FinalizerLoader.class (not open)
+  FinalizableReferenceQueue$SystemLoader.class (not open)
+  FinalizableReferenceQueue.class (not open)
+  FinalizableSoftReference.class (not open)
+  FinalizableWeakReference.class (not open)
+  Function.class (not open)
+  FunctionalEquivalence.class (not open)
+  Functions$1.class (not open)
+  Functions$ConstantFunction.class (not open)
+  Functions$ForMapWithDefault.class (not open)
+  Functions$FunctionComposition.class (not open)
+  Functions$FunctionForMapNoDefault.class (not open)
+  Functions$IdentityFunction.class (not open)
+  Functions$PredicateFunction.class (not open)
+  Functions$SupplierFunction.class (not open)
+  Functions$ToStringFunction.class (not open)
+  Functions.class (not open)
+  Joiner$1.class (not open)
+  Joiner$2.class (not open)
+  Joiner$3.class (not open)
+  Joiner$MapJoiner.class (not open)
+  Joiner.class (not open)
+  MoreObjects$1.class (not open)
+  MoreObjects$ToStringHelper$ValueHolder.class (not open)
+  MoreObjects$ToStringHelper.class (not open)
+  MoreObjects.class (not open)
+  Objects$1.class (not open)
+  Objects$ToStringHelper$ValueHolder.class (not open)
+  Objects$ToStringHelper.class (not open)
+  Objects.class (not open)
+  Optional$1$1.class (not open)
+  Optional$1.class (not open)
+  Optional.class (not open)
+  PairwiseEquivalence.class (not open)
+  Platform.class (not open)
+  Preconditions.class (not open)
+  Predicate.class (not open)
+  Predicates$1.class (not open)
+  Predicates$AndPredicate.class (not open)
+  Predicates$AssignableFromPredicate.class (not open)
+  Predicates$CompositionPredicate.class (not open)
+  Predicates$ContainsPatternFromStringPredicate.class (not open)
+  Predicates$ContainsPatternPredicate.class (not open)
+  Predicates$InPredicate.class (not open)
+  Predicates$InstanceOfPredicate.class (not open)
+  Predicates$IsEqualToPredicate.class (not open)
+  Predicates$NotPredicate.class (not open)
+  Predicates$ObjectPredicate$1.class (not open)
+  Predicates$ObjectPredicate$2.class (not open)
+  Predicates$ObjectPredicate$3.class (not open)
+  Predicates$ObjectPredicate$4.class (not open)
+  Predicates$ObjectPredicate.class (not open)
+  Predicates$OrPredicate.class (not open)
+  Predicates.class (not open)
+  Present.class (not open)
+  SmallCharMatcher.class (not open)
+  Splitter$1$1.class (not open)
+  Splitter$1.class (not open)
+  Splitter$2$1.class (not open)
+  Splitter$2.class (not open)
+  Splitter$3$1.class (not open)
+  Splitter$3.class (not open)
+  Splitter$4$1.class (not open)
+  Splitter$4.class (not open)
+  Splitter$5.class (not open)
+  Splitter$MapSplitter.class (not open)
+  Splitter$SplittingIterator.class (not open)
+  Splitter$Strategy.class (not open)
+  Splitter.class (not open)
+  StandardSystemProperty.class (not open)
+  Stopwatch$1.class (not open)
+  Stopwatch.class (not open)
+  Strings.class (not open)
+  Supplier.class (not open)
+  Suppliers$ExpiringMemoizingSupplier.class (not open)
+  Suppliers$MemoizingSupplier.class (not open)
+  Suppliers$SupplierComposition.class (not open)
+  Suppliers$SupplierFunction.class (not open)
+  Suppliers$SupplierFunctionImpl.class (not open)
+  Suppliers$SupplierOfInstance.class (not open)
+  Suppliers$ThreadSafeSupplier.class (not open)
+  Suppliers.class (not open)
+  Throwables$1.class (not open)
+  Throwables.class (not open)
+  Ticker$1.class (not open)
+  Ticker.class (not open)
+  Utf8.class (not open)
+  Verify.class (not open)
+  VerifyException.class (not open)
+  package-info.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:29.014
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.jasper.tagplugins.jstl.core [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  Catch.class (not open)
+  Choose.class (not open)
+  ForEach.class (not open)
+  ForTokens.class (not open)
+  If.class (not open)
+  Import.class (not open)
+  Otherwise.class (not open)
+  Out.class (not open)
+  Param.class (not open)
+  Redirect.class (not open)
+  Remove.class (not open)
+  Set.class (not open)
+  Url.class (not open)
+  When.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:29.014
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.http.protocol [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  BasicHttpContext.class (not open)
+  BasicHttpProcessor.class (not open)
+  ChainBuilder.class (not open)
+  DefaultedHttpContext.class (not open)
+  ExecutionContext.class (not open)
+  HTTP.class (not open)
+  HttpContext.class (not open)
+  HttpCoreContext.class (not open)
+  HttpDateGenerator.class (not open)
+  HttpExpectationVerifier.class (not open)
+  HttpProcessor.class (not open)
+  HttpProcessorBuilder.class (not open)
+  HttpRequestExecutor.class (not open)
+  HttpRequestHandler.class (not open)
+  HttpRequestHandlerMapper.class (not open)
+  HttpRequestHandlerRegistry.class (not open)
+  HttpRequestHandlerResolver.class (not open)
+  HttpRequestInterceptorList.class (not open)
+  HttpResponseInterceptorList.class (not open)
+  HttpService$HttpRequestHandlerResolverAdapter.class (not open)
+  HttpService.class (not open)
+  ImmutableHttpProcessor.class (not open)
+  RequestConnControl.class (not open)
+  RequestContent.class (not open)
+  RequestDate.class (not open)
+  RequestExpectContinue.class (not open)
+  RequestTargetHost.class (not open)
+  RequestUserAgent.class (not open)
+  ResponseConnControl.class (not open)
+  ResponseContent.class (not open)
+  ResponseDate.class (not open)
+  ResponseServer.class (not open)
+  SyncBasicHttpContext.class (not open)
+  UriHttpRequestHandlerMapper.class (not open)
+  UriPatternMatcher.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:29.014
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:com.beust.jcommander.validators [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  NoValidator.class (not open)
+  NoValueValidator.class (not open)
+  PositiveInteger.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:29.014
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.openqa.grid.internal.exception [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  NewSessionException.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:29.014
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.xalan.xslt [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  EnvironmentCheck.class (not open)
+  ObjectFactory$ConfigurationError.class (not open)
+  ObjectFactory.class (not open)
+  Process.class (not open)
+  SecuritySupport$1.class (not open)
+  SecuritySupport$2.class (not open)
+  SecuritySupport$3.class (not open)
+  SecuritySupport$4.class (not open)
+  SecuritySupport$5.class (not open)
+  SecuritySupport$6.class (not open)
+  SecuritySupport$7.class (not open)
+  SecuritySupport$8.class (not open)
+  SecuritySupport.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:29.014
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.james.mime4j.field.structured [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:29.014
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.bouncycastle.jcajce.provider.asymmetric.x509 [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  CertificateFactory$ExCertificateException.class (not open)
+  CertificateFactory.class (not open)
+  KeyFactory.class (not open)
+  PEMUtil.class (not open)
+  PKIXCertPath.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:29.014
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:net.sourceforge.htmlunit.corejs [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:29.014
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.http.impl.execchain [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  BackoffStrategyExec.class (not open)
+  ClientExecChain.class (not open)
+  ConnectionHolder.class (not open)
+  HttpResponseProxy.class (not open)
+  MainClientExec.class (not open)
+  MinimalClientExec.class (not open)
+  ProtocolExec.class (not open)
+  RedirectExec.class (not open)
+  RequestAbortedException.class (not open)
+  RequestEntityProxy.class (not open)
+  ResponseEntityProxy.class (not open)
+  RetryExec.class (not open)
+  ServiceUnavailableRetryExec.class (not open)
+  TunnelRefusedException.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:29.014
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.openqa.selenium.mobile [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  NetworkConnection$ConnectionType.class (not open)
+  NetworkConnection.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:29.014
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.jboss.netty.channel.socket.http [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  HttpTunnelingClientSocketChannel$1.class (not open)
+  HttpTunnelingClientSocketChannel$2$1.class (not open)
+  HttpTunnelingClientSocketChannel$2.class (not open)
+  HttpTunnelingClientSocketChannel$3.class (not open)
+  HttpTunnelingClientSocketChannel$4.class (not open)
+  HttpTunnelingClientSocketChannel$5$1.class (not open)
+  HttpTunnelingClientSocketChannel$5.class (not open)
+  HttpTunnelingClientSocketChannel$6$1.class (not open)
+  HttpTunnelingClientSocketChannel$6.class (not open)
+  HttpTunnelingClientSocketChannel$7$1.class (not open)
+  HttpTunnelingClientSocketChannel$7.class (not open)
+  HttpTunnelingClientSocketChannel$ServletChannelHandler.class (not open)
+  HttpTunnelingClientSocketChannel.class (not open)
+  HttpTunnelingClientSocketChannelFactory.class (not open)
+  HttpTunnelingClientSocketPipelineSink$1.class (not open)
+  HttpTunnelingClientSocketPipelineSink.class (not open)
+  HttpTunnelingServlet$OutboundConnectionHandler.class (not open)
+  HttpTunnelingServlet.class (not open)
+  HttpTunnelingSocketChannelConfig.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:29.014
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:com.gargoylesoftware.htmlunit.javascript.host.arrays [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  ArrayBuffer.class (not open)
+  ArrayBufferView.class (not open)
+  ArrayBufferViewBase.class (not open)
+  DataView.class (not open)
+  Float32Array.class (not open)
+  Float64Array.class (not open)
+  Int16Array.class (not open)
+  Int32Array.class (not open)
+  Int8Array.class (not open)
+  Uint16Array.class (not open)
+  Uint32Array.class (not open)
+  Uint8Array.class (not open)
+  Uint8ClampedArray.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:29.014
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.http.auth [in C:\SeleniumServer\selenium-server-standalone-2.50.0.jar]
+  AUTH.class (not open)
+  AuthOption.class (not open)
+  AuthProtocolState.class (not open)
+  AuthScheme.class (not open)
+  AuthSchemeFactory.class (not open)
+  AuthSchemeProvider.class (not open)
+  AuthSchemeRegistry$1.class (not open)
+  AuthSchemeRegistry.class (not open)
+  AuthScope.class (not open)
+  AuthState.class (not open)
+  AuthenticationException.class (not open)
+  BasicUserPrincipal.class (not open)
+  ChallengeState.class (not open)
+  ContextAwareAuthScheme.class (not open)
+  Credentials.class (not open)
+  InvalidCredentialsException.class (not open)
+  KerberosCredentials.class (not open)
+  MalformedChallengeException.class (not open)
+  NTCredentials.class (not open)
+  NTUserPrincipal.class (not open)
+  UsernamePasswordCredentials.class (not open)
+
+!ENTRY org.testng.eclipse 1 0 2016-06-10 14:50:29.888
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\eclipse-java-luna-R-win32\eclipse\plugins\org.testng.eclipse_6.9.11.201604020423\lib\testng-remote.jar C:\Users\trng7\Desktop\Seleninum_Hemant\Assignment1_session5\bin C:\SeleniumServer\selenium-server-standalone-2.50.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 49816 -protocol json -d C:\Users\trng7\Desktop\Seleninum_Hemant\Assignment1_session5\test-output C:\Users\trng7\AppData\Local\Temp\testng-eclipse-135438815\testng-customsuite.xml
+java -ea -classpath C:\eclipse-java-luna-R-win32\eclipse\plugins\org.testng.eclipse_6.9.11.201604020423\lib\testng-remote.jar:C:\Users\trng7\Desktop\Seleninum_Hemant\Assignment1_session5\bin:C:\SeleniumServer\selenium-server-standalone-2.50.0.jar org.testng.remote.RemoteTestNG -serport 49816 -protocol json -d C:\Users\trng7\Desktop\Seleninum_Hemant\Assignment1_session5\test-output C:\Users\trng7\AppData\Local\Temp\testng-eclipse-135438815\testng-customsuite.xml
+!SESSION 2016-06-13 14:42:14.928 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.7.0_80
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.java.product -data C:\Users\trng7\Desktop\Seleninum_Hemant -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-06-13 14:42:23.167
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-06-13 14:42:23.198
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\trng7'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-13 15:39:51.891
+!MESSAGE Can't handle %s as parent of completion location.
+!SESSION 2016-06-14 14:27:49.685 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.7.0_80
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-06-14 14:28:18.130
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-06-14 14:28:18.130
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\trng7'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2016-06-15 15:56:10.321 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.7.0_80
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-06-15 15:56:26.801
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-06-15 15:56:26.816
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\trng7'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
